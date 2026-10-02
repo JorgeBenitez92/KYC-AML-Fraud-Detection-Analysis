@@ -1,0 +1,19 @@
+pais_id,nombre_pais,codigo_iso3,es_sancionado_ofac,nivel_riesgo_pais,observaciones
+1,Mexico,MEX,f,Bajo,País de operación del banco
+2,Estados Unidos,USA,f,Bajo,Principal socio comercial
+3,Canada,CAN,f,Bajo,
+4,España,ESP,f,Bajo,
+5,Alemania,DEU,f,Bajo,
+6,Reino Unido,GBR,f,Bajo,
+7,Colombia,COL,f,Medio,"Alto volumen de remesas, mayor monitoreo estándar"
+8,Panama,PAN,f,Medio,Historial de uso en esquemas de opacidad corporativa (lista gris GAFI en distintos periodos)
+9,Brasil,BRA,f,Bajo,
+10,China,CHN,f,Medio,Mayor escrutinio por comercio exterior
+11,Emiratos Arabes Unidos,ARE,f,Medio,Centro financiero con mayor riesgo de opacidad
+12,Corea del Norte,PRK,t,Alto,Sancionado OFAC (uso educativo/ilustrativo)
+13,Iran,IRN,t,Alto,Sancionado OFAC (uso educativo/ilustrativo)
+14,Siria,SYR,t,Alto,Sancionado OFAC (uso educativo/ilustrativo)
+15,Cuba,CUB,t,Alto,Sancionado OFAC (uso educativo/ilustrativo)
+16,Venezuela,VEN,t,Alto,Sancionado OFAC de forma sectorial/individual (uso educativo/ilustrativo)
+17,Rusia,RUS,t,Alto,Sancionado OFAC de forma sectorial/individual (uso educativo/ilustrativo)
+18,Myanmar,MMR,t,Alto,Sancionado OFAC (uso educativo/ilustrativo)

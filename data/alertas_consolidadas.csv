@@ -1,0 +1,94 @@
+tipo_entidad,entidad_id,cliente_id,tipo_alerta,detalle,fecha_deteccion,severidad_sugerida
+Cliente,5,5,Estructuracion,"Cuenta 5: 7 depositos en efectivo en ventana de 10 dias, $975551.89 MXN acumulados",2025-11-12 03:35:35.444985+00,Alta
+Cliente,27,27,Estructuracion,"Cuenta 27: 7 depositos en efectivo en ventana de 10 dias, $962417.32 MXN acumulados",2026-01-13 10:35:35.444985+00,Alta
+Cliente,141,141,Estructuracion,"Cuenta 141: 12 depositos en efectivo en ventana de 10 dias, $1626791.50 MXN acumulados",2025-10-30 04:35:35.444985+00,Alta
+Cliente,157,157,Estructuracion,"Cuenta 157: 13 depositos en efectivo en ventana de 10 dias, $1749596.30 MXN acumulados",2025-12-22 04:35:35.444985+00,Alta
+Cliente,165,165,Estructuracion,"Cuenta 165: 8 depositos en efectivo en ventana de 10 dias, $1081992.47 MXN acumulados",2026-04-18 04:35:35.444985+00,Alta
+Cliente,206,206,Estructuracion,"Cuenta 206: 8 depositos en efectivo en ventana de 10 dias, $1059103.31 MXN acumulados",2025-12-21 08:35:35.444985+00,Alta
+Cliente,207,207,Estructuracion,"Cuenta 207: 7 depositos en efectivo en ventana de 10 dias, $998004.90 MXN acumulados",2026-03-25 03:35:35.444985+00,Alta
+Cliente,362,362,Estructuracion,"Cuenta 362: 7 depositos en efectivo en ventana de 10 dias, $944793.31 MXN acumulados",2026-03-19 07:35:35.444985+00,Alta
+Cliente,497,497,Estructuracion,"Cuenta 497: 8 depositos en efectivo en ventana de 10 dias, $1108459.06 MXN acumulados",2025-11-11 04:35:35.444985+00,Alta
+Cliente,513,513,Estructuracion,"Cuenta 513: 8 depositos en efectivo en ventana de 10 dias, $1111988.79 MXN acumulados",2026-03-01 10:35:35.444985+00,Alta
+Cliente,547,547,Estructuracion,"Cuenta 547: 7 depositos en efectivo en ventana de 10 dias, $931656.04 MXN acumulados",2025-11-21 07:35:35.444985+00,Alta
+Cliente,575,575,Estructuracion,"Cuenta 575: 8 depositos en efectivo en ventana de 10 dias, $1062270.65 MXN acumulados",2026-01-02 09:35:35.444985+00,Alta
+Cliente,650,650,Estructuracion,"Cuenta 650: 8 depositos en efectivo en ventana de 10 dias, $1106792.37 MXN acumulados",2026-01-04 10:35:35.444985+00,Alta
+Cliente,656,656,Estructuracion,"Cuenta 656: 8 depositos en efectivo en ventana de 10 dias, $1090066.75 MXN acumulados",2026-01-06 07:35:35.444985+00,Alta
+Cliente,665,665,Estructuracion,"Cuenta 665: 8 depositos en efectivo en ventana de 10 dias, $1087128.54 MXN acumulados",2026-04-14 08:35:35.444985+00,Alta
+Cliente,786,786,Estructuracion,"Cuenta 786: 15 depositos en efectivo en ventana de 10 dias, $2024671.85 MXN acumulados",2026-03-23 03:35:35.444985+00,Alta
+Cliente,294,294,Pais Sancionado OFAC,Transaccion 23249 de $397863.52 MXN con Iran,2026-04-07 03:35:35.45342+00,Critica
+Cliente,484,484,Pais Sancionado OFAC,Transaccion 23250 de $407629.81 MXN con Venezuela,2026-08-28 03:35:35.45342+00,Critica
+Cliente,554,554,Pais Sancionado OFAC,Transaccion 23251 de $297019.07 MXN con Myanmar,2026-09-03 03:35:35.45342+00,Critica
+Cliente,298,298,Pais Sancionado OFAC,Transaccion 23252 de $438796.48 MXN con Rusia,2025-12-10 03:35:35.45342+00,Critica
+Cliente,611,611,Pais Sancionado OFAC,Transaccion 23253 de $276593.02 MXN con Iran,2026-06-26 03:35:35.45342+00,Critica
+Cliente,355,355,Pais Sancionado OFAC,Transaccion 23254 de $97755.83 MXN con Myanmar,2025-12-19 03:35:35.45342+00,Critica
+Cliente,216,216,Pais Sancionado OFAC,Transaccion 23255 de $400650.08 MXN con Myanmar,2026-01-21 03:35:35.45342+00,Critica
+Cliente,197,197,Pais Sancionado OFAC,Transaccion 23256 de $421602.46 MXN con Venezuela,2026-04-15 03:35:35.45342+00,Critica
+Cliente,176,176,Pais Sancionado OFAC,Transaccion 23257 de $456559.05 MXN con Corea del Norte,2026-05-29 03:35:35.45342+00,Critica
+Cliente,702,702,Pais Sancionado OFAC,Transaccion 23258 de $175130.19 MXN con Myanmar,2026-08-30 03:35:35.45342+00,Critica
+Cliente,526,526,Pais Sancionado OFAC,Transaccion 23259 de $33608.60 MXN con Rusia,2025-12-31 03:35:35.45342+00,Critica
+Cliente,513,513,Pais Sancionado OFAC,Transaccion 23260 de $120899.87 MXN con Venezuela,2026-09-19 03:35:35.45342+00,Critica
+Cliente,523,523,Pais Sancionado OFAC,Transaccion 23261 de $438986.42 MXN con Myanmar,2026-02-12 03:35:35.45342+00,Critica
+Cliente,623,623,Pais Sancionado OFAC,Transaccion 23262 de $36661.07 MXN con Myanmar,2026-07-24 03:35:35.45342+00,Critica
+Cliente,129,129,Monto Inusual,Transaccion 23274 de $241041.29 MXN (z-score 4.93 vs promedio $26287.58),2026-07-07 03:35:35.456454+00,Media
+Cliente,142,142,Monto Inusual,Transaccion 23268 de $3222041.65 MXN (z-score 4.56 vs promedio $272350.95),2026-07-11 03:35:35.456454+00,Media
+Cliente,201,201,Monto Inusual,Transaccion 23264 de $272761.59 MXN (z-score 4.98 vs promedio $18053.24),2026-06-17 03:35:35.456454+00,Media
+Cliente,216,216,Monto Inusual,Transaccion 23255 de $400650.08 MXN (z-score 4.68 vs promedio $24497.05),2026-01-21 03:35:35.45342+00,Media
+Cliente,298,298,Monto Inusual,Transaccion 23252 de $438796.48 MXN (z-score 5.00 vs promedio $24551.51),2025-12-10 03:35:35.45342+00,Media
+Cliente,355,355,Monto Inusual,Transaccion 23254 de $97755.83 MXN (z-score 4.93 vs promedio $10740.57),2025-12-19 03:35:35.45342+00,Media
+Cliente,356,356,Monto Inusual,Transaccion 23267 de $199343.90 MXN (z-score 4.57 vs promedio $14772.34),2026-08-10 03:35:35.456454+00,Media
+Cliente,484,484,Monto Inusual,Transaccion 23250 de $407629.81 MXN (z-score 4.99 vs promedio $25924.27),2026-08-28 03:35:35.45342+00,Media
+Cliente,523,523,Monto Inusual,Transaccion 23261 de $438986.42 MXN (z-score 4.74 vs promedio $64365.85),2026-02-12 03:35:35.45342+00,Media
+Cliente,526,526,Monto Inusual,Transaccion 23259 de $33608.60 MXN (z-score 5.10 vs promedio $1405.75),2025-12-31 03:35:35.45342+00,Media
+Cliente,580,580,Monto Inusual,Transaccion 23273 de $90895.40 MXN (z-score 4.61 vs promedio $9163.24),2026-08-10 03:35:35.456454+00,Media
+Cliente,611,611,Monto Inusual,Transaccion 23253 de $276593.02 MXN (z-score 4.57 vs promedio $19154.24),2026-06-26 03:35:35.45342+00,Media
+Cliente,619,619,Monto Inusual,Transaccion 23272 de $137417.11 MXN (z-score 4.78 vs promedio $10507.11),2026-06-06 03:35:35.456454+00,Media
+Cliente,649,649,Monto Inusual,Transaccion 23269 de $187333.09 MXN (z-score 4.97 vs promedio $13209.78),2026-08-14 03:35:35.456454+00,Media
+Cliente,757,757,Monto Inusual,Transaccion 23270 de $6020086.51 MXN (z-score 4.56 vs promedio $445510.76),2026-09-01 03:35:35.456454+00,Media
+Cliente,78,78,Velocidad Alta,Cuenta 78: 9 transacciones en 15 minutos,2026-03-24 03:35:35.463406+00,Media
+Cliente,642,642,Velocidad Alta,Cuenta 642: 8 transacciones en 15 minutos,2026-03-26 03:35:35.463406+00,Media
+Cliente,409,409,Velocidad Alta,Cuenta 409: 7 transacciones en 15 minutos,2026-07-06 03:35:35.463406+00,Media
+Cliente,147,147,Velocidad Alta,Cuenta 147: 8 transacciones en 15 minutos,2026-07-31 03:35:35.463406+00,Media
+Cliente,191,191,Velocidad Alta,Cuenta 191: 9 transacciones en 15 minutos,2026-09-02 03:35:35.463406+00,Media
+Cliente,722,722,Velocidad Alta,Cuenta 722: 7 transacciones en 15 minutos,2026-04-29 03:35:35.463406+00,Media
+Cliente,290,290,Velocidad Alta,Cuenta 290: 8 transacciones en 15 minutos,2026-03-13 03:35:35.463406+00,Media
+Cliente,250,250,Velocidad Alta,Cuenta 250: 9 transacciones en 15 minutos,2026-06-30 03:35:35.463406+00,Media
+Cliente,570,570,Velocidad Alta,Cuenta 570: 7 transacciones en 15 minutos,2026-04-19 03:35:35.463406+00,Media
+Cliente,360,360,Velocidad Alta,Cuenta 360: 8 transacciones en 15 minutos,2026-04-30 03:35:35.463406+00,Media
+Cliente,319,319,Velocidad Alta,Cuenta 319: 7 transacciones en 15 minutos,2026-03-13 03:35:35.463406+00,Media
+Cliente,787,787,Velocidad Alta,Cuenta 787: 9 transacciones en 15 minutos,2026-06-15 03:35:35.463406+00,Media
+Socio,14,67,UBO en Lista Negra,"Socio ""Maria Hernandez"" (17.48%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,22,84,UBO en Lista Negra,"Socio ""Juan Martinez"" (61.65%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,44,196,UBO en Lista Negra,"Socio ""Juan Lopez"" (18.16%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,83,294,UBO en Lista Negra,"Socio ""Luis Flores"" (21.10%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,103,422,UBO en Lista Negra,"Socio ""Carlos Flores"" (24.42%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,101,422,UBO en Lista Negra,"Socio ""Juan Sanchez"" (55.99%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,177,669,UBO en Lista Negra,"Socio ""Ana Ramirez"" (16.54%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,183,688,UBO en Lista Negra,"Socio ""Juan Sanchez"" (63.33%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Socio,195,714,UBO en Lista Negra,"Socio ""Fernanda Gonzalez"" (48.46%) nacionalidad Mexico",2026-09-20 03:38:10.926068+00,Critica
+Cliente,257,257,Posible Prestanombres,Dispositivo DEV-6375A9E327 compartido con 2 cliente(s) mas; flujo = 6.64x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,749,749,Posible Prestanombres,Dispositivo DEV-6375A9E327 compartido con 2 cliente(s) mas; flujo = 0.83x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,680,680,Posible Prestanombres,Dispositivo DEV-6375A9E327 compartido con 2 cliente(s) mas; flujo = 1.82x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,388,388,Posible Prestanombres,Dispositivo DEV-DF848207CB compartido con 2 cliente(s) mas; flujo = 1.30x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,491,491,Posible Prestanombres,Dispositivo DEV-1779150245 compartido con 2 cliente(s) mas; flujo = 2.50x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,577,577,Posible Prestanombres,Dispositivo DEV-1779150245 compartido con 2 cliente(s) mas; flujo = 1.17x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,146,146,Posible Prestanombres,Dispositivo DEV-CABED14068 compartido con 2 cliente(s) mas; flujo = 2.32x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,396,396,Posible Prestanombres,Dispositivo DEV-DF848207CB compartido con 2 cliente(s) mas; flujo = 1.67x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,451,451,Posible Prestanombres,Dispositivo DEV-1779150245 compartido con 2 cliente(s) mas; flujo = 2.21x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,590,590,Posible Prestanombres,Dispositivo DEV-DF848207CB compartido con 2 cliente(s) mas; flujo = 0.89x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,223,223,Posible Prestanombres,Dispositivo DEV-CABED14068 compartido con 2 cliente(s) mas; flujo = 1.21x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,94,94,Posible Prestanombres,Dispositivo DEV-CABED14068 compartido con 2 cliente(s) mas; flujo = 1.25x el ingreso anual declarado,2026-09-20 03:38:10.926068+00,Alta
+Cliente,127,127,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-05-25 03:36:37.893099+00,Critica
+Cliente,177,177,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min,2026-05-24 03:36:34.004435+00,Alta
+Cliente,195,195,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min,2026-07-05 03:36:49.112294+00,Alta
+Cliente,209,209,Credential Stuffing / Fuerza Bruta,18 intentos fallidos desde 18 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-06-10 03:36:01.594231+00,Critica
+Cliente,219,219,Credential Stuffing / Fuerza Bruta,21 intentos fallidos desde 21 IPs en 20 min,2026-05-02 03:36:38.272295+00,Alta
+Cliente,239,239,Credential Stuffing / Fuerza Bruta,16 intentos fallidos desde 16 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-07-06 03:36:19.543798+00,Critica
+Cliente,240,240,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-08-24 03:36:30.799974+00,Critica
+Cliente,264,264,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-03-31 03:35:58.657545+00,Critica
+Cliente,278,278,Credential Stuffing / Fuerza Bruta,21 intentos fallidos desde 21 IPs en 20 min,2026-09-20 03:35:55.438342+00,Alta
+Cliente,305,305,Credential Stuffing / Fuerza Bruta,19 intentos fallidos desde 19 IPs en 20 min,2026-03-14 03:36:15.993884+00,Alta
+Cliente,472,472,Credential Stuffing / Fuerza Bruta,18 intentos fallidos desde 18 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-04-05 03:37:40.619703+00,Critica
+Cliente,501,501,Credential Stuffing / Fuerza Bruta,20 intentos fallidos desde 20 IPs en 20 min,2026-07-09 03:36:44.467058+00,Alta
+Cliente,572,572,Credential Stuffing / Fuerza Bruta,19 intentos fallidos desde 19 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-04-01 03:36:34.589345+00,Critica
+Cliente,598,598,Credential Stuffing / Fuerza Bruta,17 intentos fallidos desde 17 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-08-30 03:36:18.547538+00,Critica
+Cliente,652,652,Credential Stuffing / Fuerza Bruta,19 intentos fallidos desde 19 IPs en 20 min -- HUBO acceso exitoso despues (posible cuenta comprometida),2026-07-08 03:36:53.604386+00,Critica

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --surface-1:      #1a1a19;
+    --page-plane:     #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --series-1:       #3987e5;
+    --status-critical:#e66767;
+    --hairline:       rgba(255,255,255,0.10);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    width: 1080px;
+    height: 1080px;
+    background: var(--page-plane);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .card {
+    width: 1080px;
+    height: 1080px;
+    background:
+      radial-gradient(circle at 85% 8%, rgba(57,135,229,0.16), transparent 40%),
+      var(--surface-1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 76px 84px 64px 84px;
+  }
+
+  /* Eyebrow */
+  .eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .eyebrow .bar {
+    width: 34px;
+    height: 6px;
+    border-radius: 3px;
+    background: var(--series-1);
+  }
+  .eyebrow span {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  /* Headline */
+  .headline {
+    margin-top: 44px;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 1.18;
+    color: var(--text-primary);
+    max-width: 860px;
+    letter-spacing: -0.01em;
+  }
+
+  /* Hero stat block */
+  .hero-block {
+    margin-top: 56px;
+    display: flex;
+    align-items: baseline;
+    gap: 28px;
+  }
+  .hero-number {
+    font-size: 168px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .hero-label {
+    font-size: 27px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    max-width: 420px;
+    line-height: 1.42;
+  }
+
+  /* Secondary stat row */
+  .secondary-stat {
+    margin-top: 46px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding: 22px 26px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid var(--hairline);
+    border-radius: 14px;
+    max-width: 780px;
+  }
+  .secondary-stat svg { flex: none; }
+  .secondary-stat .txt {
+    font-size: 24px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+  }
+  .secondary-stat .txt b {
+    color: var(--text-primary);
+    font-weight: 700;
+  }
+
+  /* Footer */
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid var(--hairline);
+    padding-top: 30px;
+    margin-top: 20px;
+  }
+  .footer .who {
+    font-size: 22px;
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+  .footer .who .name { color: var(--text-primary); }
+  .footer .tag {
+    font-size: 20px;
+    color: var(--text-muted);
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div>
+      <div class="eyebrow">
+        <div class="bar"></div>
+        <span>Proyecto KYC / PLD &middot; Análisis de datos</span>
+      </div>
+      <div class="headline">Cerrar un caso de PLD<br>no es lo mismo que resolverlo.</div>
+
+      <div class="hero-block">
+        <div class="hero-number">100%</div>
+        <div class="hero-label">de los casos de estructuración ya investigados repitieron el mismo patrón después de cerrarse</div>
+      </div>
+
+      <div class="secondary-stat">
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none">
+          <circle cx="12" cy="12" r="9" stroke="#e66767" stroke-width="2"/>
+          <path d="M12 7v5l3.5 2" stroke="#e66767" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <div class="txt">En promedio, <b>123 días</b> de actividad sospechosa sin monitoreo activo tras el cierre del caso (hasta 241 en el peor de los casos).</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="who">Jorge Benítez &middot; <span class="name">Analista de Datos en transición</span></div>
+      <div class="tag">Proyecto de portafolio &middot; SQL + PLD/AML</div>
+    </div>
+  </div>
+</body>
+</html>

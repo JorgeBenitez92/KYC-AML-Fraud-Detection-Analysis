@@ -1,0 +1,92 @@
+caso_id,tipo_entidad,entidad_id,tipo_riesgo,descripcion
+1,Cliente,165,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+2,Cliente,141,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+3,Cliente,157,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+4,Cliente,650,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+5,Cliente,513,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+6,Cliente,547,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+7,Cliente,656,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+8,Cliente,497,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+9,Cliente,786,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+10,Cliente,575,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+11,Cliente,5,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+12,Cliente,206,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+13,Cliente,362,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+14,Cliente,207,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+15,Cliente,665,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+16,Cliente,27,Estructuracion,"Rafagas de depositos en efectivo justo debajo del umbral de aviso ($150,000 MXN)"
+17,Cliente,294,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+18,Cliente,484,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+19,Cliente,554,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+20,Cliente,298,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+21,Cliente,611,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+22,Cliente,355,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+23,Cliente,216,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+24,Cliente,197,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+25,Cliente,176,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+26,Cliente,702,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+27,Cliente,526,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+28,Cliente,513,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+29,Cliente,523,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+30,Cliente,623,Pais Sancionado OFAC,Transferencia internacional hacia/desde un pais en la lista de sancionados
+31,Cliente,688,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+32,Cliente,757,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+33,Cliente,201,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+34,Cliente,129,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+35,Cliente,680,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+36,Cliente,580,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+37,Cliente,411,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+38,Cliente,619,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+39,Cliente,142,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+40,Cliente,356,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+41,Cliente,363,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+42,Cliente,649,Monto Inusual,Transaccion 12x-40x superior al promedio historico del cliente
+43,Cliente,360,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+44,Cliente,787,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+45,Cliente,642,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+46,Cliente,78,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+47,Cliente,191,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+48,Cliente,57,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+49,Cliente,250,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+50,Cliente,722,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+51,Cliente,147,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+52,Cliente,319,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+53,Cliente,290,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+54,Cliente,409,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+55,Cliente,570,Velocidad Alta,6 a 10 transacciones concentradas en menos de 15 minutos
+56,Socio,14,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+57,Socio,22,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+58,Socio,44,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+59,Socio,83,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+60,Socio,101,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+61,Socio,103,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+62,Socio,177,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+63,Socio,183,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+64,Socio,195,UBO en Lista Negra,Beneficiario final / socio coincide con lista restrictiva (PEP/sancionados)
+65,Cliente,146,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+66,Cliente,223,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+67,Cliente,94,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+68,Cliente,749,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+69,Cliente,257,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+70,Cliente,680,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+71,Cliente,491,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+72,Cliente,451,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+73,Cliente,577,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+74,Cliente,590,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+75,Cliente,396,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+76,Cliente,388,Posible Prestanombres,Comparte dispositivo/telefono/IP de registro con otros clientes distintos; perfil de ingreso bajo con flujos altos
+77,Cliente,219,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+78,Cliente,239,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+79,Cliente,127,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+80,Cliente,472,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+81,Cliente,278,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+82,Cliente,305,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+83,Cliente,652,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+84,Cliente,177,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+85,Cliente,572,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+86,Cliente,501,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+87,Cliente,264,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+88,Cliente,195,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+89,Cliente,209,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+90,Cliente,240,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos
+91,Cliente,598,Credential Stuffing / Fuerza Bruta,Rafaga de intentos de acceso fallidos desde multiples IPs distintas en menos de 20 minutos

@@ -1,0 +1,801 @@
+cliente_id,tipo_persona,nombre_completo,fecha_nacimiento_constitucion,fecha_alta,canal_alta,ciudad,estado_republica,pais_id,ocupacion_giro,ingreso_mensual_declarado_mxn,es_pep,nivel_riesgo_kyc_onboarding,estatus_cliente
+1,Fisica,Hector Hernandez Martinez,1977-09-20,2024-06-17 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Profesionista Independiente,116792.38,f,Bajo,Activo
+2,Fisica,Arturo Martinez Ruiz,1982-09-20,2023-10-17 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,114045.03,f,Bajo,Activo
+3,Fisica,Miguel Gomez Torres,1967-09-20,2026-03-06 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Estudiante,150.31,f,Medio,Activo
+4,Moral,Logistica Restaurantero Flores S.A. de C.V.,2018-09-20,2024-10-28 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Restaurantero,122386.55,f,Medio,Activo
+5,Fisica,Jose Vargas Garcia,1957-09-20,2026-05-25 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,162042.99,f,Bajo,Activo
+6,Fisica,Luis Flores Ramos,1976-09-20,2025-12-07 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,210542.63,f,Bajo,Activo
+7,Fisica,Maria Ramos Ruiz,1959-09-20,2026-04-11 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Estudiante,1158.74,f,Bajo,Activo
+8,Fisica,Ricardo Contreras Mendoza,1994-09-20,2025-07-06 03:35:34.843276,Ejecutivo,Puebla,Puebla,1,Estudiante,6906.14,f,Bajo,Activo
+9,Fisica,Sergio Cruz Morales,2004-09-20,2023-09-24 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Servidor Publico,34194.42,f,Medio,Activo
+10,Fisica,Patricia Perez Hernandez,1972-09-20,2024-11-14 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servidor Publico,53853.86,f,Medio,Activo
+11,Fisica,Roberto Diaz Contreras,1986-09-20,2024-10-27 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,58655.24,f,Bajo,Activo
+12,Fisica,Jorge Diaz Salazar,1978-09-20,2024-01-21 03:35:34.843276,Digital,Tijuana,Baja California,1,Comerciante,56308.87,f,Medio,Activo
+13,Fisica,Sofia Mendoza Diaz,1993-09-20,2026-02-25 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Profesionista Independiente,91805.48,f,Medio,Activo
+14,Fisica,Juan Garcia Perez,1997-09-20,2024-04-24 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empresario,143679.72,f,Bajo,Activo
+15,Fisica,Sergio Rivera Vargas,1990-09-20,2023-09-24 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empresario,158617.46,f,Bajo,Activo
+16,Moral,Soluciones Comercio al por menor Lopez S.A. de C.V.,2013-09-20,2026-04-01 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Comercio al por menor,2243792.83,f,Medio,Activo
+17,Fisica,Alejandro Reyes Sanchez,1971-09-20,2024-03-22 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,12230.46,f,Bajo,Activo
+18,Fisica,Paola Aguilar Perez,1975-09-20,2025-06-01 03:35:34.843276,Digital,Merida,Yucatan,1,Comerciante,38512.33,f,Bajo,Activo
+19,Fisica,Hector Salazar Morales,1982-09-20,2024-02-18 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Profesionista Independiente,62272.33,f,Bajo,Activo
+20,Fisica,Carlos Vargas Salazar,1964-09-20,2026-01-10 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,7865.52,f,Medio,Activo
+21,Moral,Grupo Comercio al por menor Hernandez S.A. de C.V.,2022-09-20,2025-07-16 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comercio al por menor,3522861.12,f,Bajo,Activo
+22,Fisica,Sofia Ramos Mendoza,1990-09-20,2025-01-26 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Empresario,258824.21,f,Bajo,Activo
+23,Fisica,Daniela Vargas Garcia,1972-09-20,2026-09-10 03:35:34.843276,Sucursal,Puebla,Puebla,1,Comerciante,41107.78,f,Bajo,Activo
+24,Fisica,Jose Morales Salazar,1960-09-20,2025-06-26 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Profesionista Independiente,64528.37,f,Bajo,Activo
+25,Fisica,Sergio Torres Flores,1958-09-20,2026-05-23 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,23111.03,f,Bajo,Activo
+26,Fisica,Sergio Jimenez Gomez,1965-09-20,2024-03-01 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Estudiante,3091.78,f,Bajo,Activo
+27,Fisica,Hector Mendoza Garcia,1997-09-20,2024-08-06 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,16101.14,f,Bajo,Activo
+28,Fisica,Luis Perez Mendoza,1990-09-20,2026-08-20 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,2062.94,f,Bajo,Activo
+29,Moral,Consultores Transporte y Logistica Martinez S.A. de C.V.,2024-09-20,2023-10-26 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Transporte y Logistica,2046206.58,f,Bajo,Activo
+30,Fisica,Alejandro Ramirez Cruz,1970-09-20,2025-02-28 03:35:34.843276,Digital,Leon,Guanajuato,1,Empresario,56410.79,f,Bajo,Activo
+31,Fisica,Ana Castillo Torres,1967-09-20,2025-05-02 03:35:34.843276,Digital,Merida,Yucatan,1,Empresario,228365.75,f,Bajo,Activo
+32,Moral,Grupo Bienes Raices Diaz S.A. de C.V.,2012-09-20,2026-06-29 03:35:34.843276,Digital,Merida,Yucatan,1,Bienes Raices,425136.34,f,Bajo,Activo
+33,Fisica,Arturo Gonzalez Lopez,1969-09-20,2024-01-20 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,57863.59,f,Bajo,Activo
+34,Fisica,Paola Vargas Contreras,1983-09-20,2026-01-23 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,6758.38,f,Bajo,Activo
+35,Fisica,Arturo Mendoza Ramirez,1992-09-20,2024-01-06 03:35:34.843276,Sucursal,Merida,Yucatan,1,Estudiante,4204.80,f,Medio,Activo
+36,Fisica,Carlos Salazar Chavez,1967-09-20,2024-07-04 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Profesionista Independiente,93205.57,f,Bajo,Activo
+37,Fisica,Patricia Flores Garcia,1998-09-20,2026-09-06 03:35:34.843276,Digital,Merida,Yucatan,1,Comerciante,47219.56,f,Medio,Activo
+38,Fisica,Hector Benitez Ruiz,1995-09-20,2025-09-14 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,22445.80,f,Bajo,Activo
+39,Fisica,Lucia Martinez Hernandez,1999-09-20,2025-05-25 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,71495.19,f,Bajo,Activo
+40,Fisica,Miguel Aguilar Vargas,1959-09-20,2023-09-22 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,18890.74,f,Bajo,Activo
+41,Fisica,Patricia Gonzalez Ortiz,2004-09-20,2025-12-05 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Comerciante,75975.64,f,Bajo,Activo
+42,Fisica,Lucia Ramos Ramos,1981-09-20,2024-08-22 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,66392.42,f,Bajo,Activo
+43,Fisica,Luis Sanchez Flores,1961-09-20,2024-10-21 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Profesionista Independiente,47519.10,f,Medio,Activo
+44,Fisica,Sergio Mendoza Ortiz,1984-09-20,2024-11-13 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,70967.95,f,Bajo,Activo
+45,Fisica,Monica Perez Sanchez,1993-09-20,2024-05-29 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Estudiante,7123.19,f,Bajo,Activo
+46,Fisica,Hector Mendoza Flores,1979-09-20,2024-04-19 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empleado,40848.85,f,Medio,Activo
+47,Fisica,Jorge Ramirez Ramos,1994-09-20,2025-10-27 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Estudiante,387.93,f,Bajo,Activo
+48,Fisica,Jorge Martinez Ramos,1983-09-20,2024-07-28 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,16833.36,f,Medio,Activo
+49,Fisica,Roberto Ortiz Ortiz,1970-09-20,2025-12-24 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,19717.66,f,Bajo,Activo
+50,Fisica,Daniela Gonzalez Flores,1972-09-20,2025-02-26 03:35:34.843276,Digital,Leon,Guanajuato,1,Servidor Publico,58114.34,f,Alto,Activo
+51,Fisica,Monica Mendoza Cruz,1965-09-20,2024-08-11 03:35:34.843276,Digital,Leon,Guanajuato,1,Jubilado,28850.76,f,Bajo,Activo
+52,Fisica,Carlos Vazquez Aguilar,1969-09-20,2025-12-16 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,12539.09,f,Bajo,Activo
+53,Fisica,Roberto Ruiz Benitez,1993-09-20,2023-10-22 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empresario,269326.35,f,Bajo,Activo
+54,Fisica,Jorge Sanchez Mendoza,2002-09-20,2026-08-01 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,20802.63,t,Bajo,Activo
+55,Fisica,Paola Castillo Jimenez,1975-09-20,2025-11-09 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Empresario,335028.89,f,Bajo,Activo
+56,Fisica,Arturo Martinez Martinez,1983-09-20,2024-12-30 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Empresario,116488.00,f,Bajo,Activo
+57,Fisica,Patricia Chavez Ramos,2004-09-20,2023-12-31 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Estudiante,7958.22,f,Bajo,Activo
+58,Fisica,Juan Ortiz Flores,1958-09-20,2025-04-02 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,7384.75,f,Medio,Activo
+59,Fisica,Sofia Flores Ortiz,1973-09-20,2026-02-10 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,14304.67,f,Bajo,Activo
+60,Fisica,Karla Martinez Lopez,2000-09-20,2024-12-23 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,58768.04,f,Medio,Activo
+61,Fisica,Lucia Garcia Salazar,1992-09-20,2026-01-23 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,263529.60,f,Bajo,Activo
+62,Fisica,Daniela Martinez Aguilar,1987-09-20,2023-10-04 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Jubilado,26023.82,f,Bajo,Activo
+63,Fisica,Ricardo Jimenez Martinez,1970-09-20,2023-11-25 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,13130.12,f,Bajo,Activo
+64,Fisica,Monica Castillo Gonzalez,1970-09-20,2024-05-15 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Estudiante,959.47,f,Alto,Activo
+65,Fisica,Paola Ortiz Gomez,1971-09-20,2024-01-05 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Empresario,291455.14,f,Medio,Activo
+66,Fisica,Monica Ruiz Reyes,1979-09-20,2024-03-24 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,17382.62,f,Bajo,Activo
+67,Moral,Distribuidora Bienes Raices Benitez S.A. de C.V.,2024-09-20,2023-10-31 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Bienes Raices,86397.95,f,Medio,Activo
+68,Fisica,Carlos Vazquez Vargas,1997-09-20,2025-02-24 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empresario,209569.90,f,Bajo,Activo
+69,Moral,Soluciones Casa de Cambio Ramirez S.A. de C.V.,2020-09-20,2024-12-04 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Casa de Cambio,2679434.64,f,Bajo,Activo
+70,Fisica,Karla Mendoza Jimenez,1961-09-20,2025-02-21 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Empleado,12394.95,f,Bajo,Activo
+71,Fisica,Juan Vazquez Vargas,1990-09-20,2025-05-19 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,38023.12,f,Bajo,Activo
+72,Fisica,Laura Diaz Castillo,2002-09-20,2024-06-30 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,16084.96,f,Bajo,Activo
+73,Fisica,Ricardo Morales Jimenez,1972-09-20,2025-10-08 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Comerciante,79162.14,f,Medio,Activo
+74,Fisica,Gabriela Torres Benitez,1995-09-20,2026-08-27 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Jubilado,22412.93,f,Bajo,Activo
+75,Fisica,Monica Hernandez Martinez,1992-09-20,2024-10-30 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,38903.55,f,Bajo,Activo
+76,Fisica,Francisco Rivera Aguilar,1960-09-20,2025-10-10 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Empleado,33711.22,f,Bajo,Activo
+77,Fisica,Sergio Gonzalez Ruiz,1975-09-20,2025-09-28 03:35:34.843276,Ejecutivo,Culiacan,Sinaloa,1,Empleado,19018.69,f,Bajo,Activo
+78,Fisica,Claudia Jimenez Salazar,1990-09-20,2024-07-31 03:35:34.843276,Ejecutivo,Queretaro,Queretaro,1,Empleado,42886.70,f,Medio,Activo
+79,Moral,Consultores Transporte y Logistica Flores S.A. de C.V.,2009-09-20,2026-08-11 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Transporte y Logistica,4411937.93,f,Bajo,Activo
+80,Fisica,Andrea Benitez Vazquez,1988-09-20,2025-12-16 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Profesionista Independiente,86313.41,f,Bajo,Activo
+81,Fisica,Karla Aguilar Vazquez,1995-09-20,2026-05-26 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,20230.88,f,Bajo,Activo
+82,Fisica,Laura Mendoza Martinez,1977-09-20,2024-09-21 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Jubilado,18434.04,f,Bajo,Activo
+83,Fisica,Lucia Hernandez Chavez,1982-09-20,2025-03-06 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,6332.53,f,Bajo,Activo
+84,Moral,Industrias Comercio al por menor Morales S.A. de C.V.,2023-09-20,2024-01-11 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comercio al por menor,1206590.21,f,Bajo,Activo
+85,Fisica,Laura Diaz Castillo,1997-09-20,2026-06-25 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,41594.97,f,Medio,Activo
+86,Fisica,Ricardo Gutierrez Ramos,2001-09-20,2026-03-12 03:35:34.843276,Digital,Tijuana,Baja California,1,Servidor Publico,59711.77,f,Bajo,Activo
+87,Fisica,Arturo Martinez Torres,1969-09-20,2025-01-10 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,77816.79,f,Bajo,Activo
+88,Moral,Industrias Tecnologia Hernandez S.A. de C.V.,2022-09-20,2025-02-11 03:35:34.843276,Sucursal,Merida,Yucatan,1,Tecnologia,968234.79,f,Bajo,Activo
+89,Fisica,Sergio Castillo Salazar,1968-09-20,2025-07-04 03:35:34.843276,Digital,Puebla,Puebla,1,Jubilado,22000.85,f,Bajo,Activo
+90,Fisica,Luis Ramirez Hernandez,1988-09-20,2025-07-28 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Jubilado,24419.35,f,Bajo,Activo
+91,Fisica,Gabriela Lopez Torres,1993-09-20,2024-03-30 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Estudiante,1961.34,f,Medio,Activo
+92,Fisica,Maria Hernandez Torres,1994-09-20,2023-11-02 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,51999.60,f,Medio,Activo
+93,Fisica,Sofia Benitez Vazquez,1982-09-20,2023-10-23 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empleado,29120.16,f,Bajo,Activo
+94,Fisica,Carlos Flores Martinez,1995-09-20,2023-12-18 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Comerciante,72108.48,f,Bajo,Activo
+95,Moral,Logistica Servicios Profesionales Perez S.A. de C.V.,2014-09-20,2024-08-17 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Servicios Profesionales,276887.69,f,Bajo,Activo
+96,Fisica,Arturo Sanchez Garcia,1960-09-20,2023-12-13 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,20217.57,f,Bajo,Activo
+97,Fisica,Carlos Ramos Perez,1984-09-20,2025-10-17 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Comerciante,63409.81,f,Bajo,Activo
+98,Fisica,Fernanda Aguilar Perez,1962-09-20,2024-07-21 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,33072.18,f,Bajo,Activo
+99,Fisica,Andrea Ramos Ramos,1977-09-20,2024-03-20 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Comerciante,51912.70,f,Bajo,Activo
+100,Fisica,Veronica Ramirez Perez,1962-09-20,2024-03-05 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empleado,9979.52,f,Bajo,Activo
+101,Fisica,Francisco Castillo Sanchez,2004-09-20,2024-11-13 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,21237.47,f,Medio,Activo
+102,Fisica,Sergio Ortiz Contreras,2000-09-20,2025-12-27 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Estudiante,5649.29,f,Bajo,Activo
+103,Fisica,Sofia Rivera Mendoza,1991-09-20,2024-10-12 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,32947.81,f,Bajo,Activo
+104,Fisica,Raul Ruiz Ruiz,1969-09-20,2025-08-23 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Profesionista Independiente,32015.59,f,Bajo,Activo
+105,Moral,Consultores Construccion Aguilar S.A. de C.V.,2007-09-20,2025-08-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Construccion,1599914.29,f,Bajo,Activo
+106,Fisica,Hector Aguilar Ramirez,1976-09-20,2025-03-23 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,39030.82,f,Bajo,Activo
+107,Fisica,Gabriela Gonzalez Vazquez,1989-09-20,2024-01-19 03:35:34.843276,Digital,Leon,Guanajuato,1,Estudiante,3308.46,t,Bajo,Activo
+108,Fisica,Sergio Morales Garcia,1984-09-20,2026-01-07 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,36165.04,f,Bajo,Activo
+109,Fisica,Carlos Morales Ortiz,1982-09-20,2026-05-02 03:35:34.843276,Digital,Tijuana,Baja California,1,Comerciante,64480.02,f,Bajo,Activo
+110,Fisica,Francisco Sanchez Morales,1958-09-20,2024-03-23 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,22217.18,f,Bajo,Activo
+111,Fisica,Luis Contreras Contreras,1989-09-20,2025-04-14 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,285857.92,f,Bajo,Activo
+112,Fisica,Luis Benitez Contreras,1972-09-20,2025-03-20 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Estudiante,206.35,f,Medio,Activo
+113,Fisica,Lucia Castillo Garcia,1979-09-20,2024-04-08 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,7186.83,f,Bajo,Activo
+114,Moral,Corporativo Transporte y Logistica Morales S.A. de C.V.,2023-09-20,2026-04-15 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Transporte y Logistica,1228644.87,t,Bajo,Activo
+115,Fisica,Jorge Gomez Castillo,1966-09-20,2024-04-13 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Estudiante,6947.09,t,Bajo,Activo
+116,Fisica,Luis Ruiz Jimenez,1976-09-20,2023-12-31 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,47145.36,f,Bajo,Activo
+117,Fisica,Jose Vargas Vazquez,1957-09-20,2026-09-14 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Empleado,20924.07,f,Medio,Activo
+118,Fisica,Arturo Ramos Cruz,1984-09-20,2025-07-05 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Empleado,30764.14,f,Bajo,Activo
+119,Fisica,Monica Rivera Vargas,1976-09-20,2024-10-03 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Profesionista Independiente,111420.04,f,Medio,Activo
+120,Fisica,Lucia Ramirez Mendoza,1995-09-20,2024-11-15 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Estudiante,6607.44,f,Medio,Activo
+121,Fisica,Fernanda Reyes Ramos,1967-09-20,2024-07-13 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,6505.13,f,Bajo,Activo
+122,Fisica,Fernanda Morales Ruiz,1970-09-20,2024-04-20 03:35:34.843276,Digital,Leon,Guanajuato,1,Jubilado,9496.31,f,Medio,Activo
+123,Fisica,Juan Contreras Chavez,1981-09-20,2024-03-31 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,18583.10,f,Bajo,Activo
+124,Fisica,Gabriela Castillo Rivera,2004-09-20,2024-11-21 03:35:34.843276,Digital,Merida,Yucatan,1,Servidor Publico,25315.29,f,Medio,Activo
+125,Fisica,Miguel Hernandez Chavez,1995-09-20,2026-02-27 03:35:34.843276,Digital,Leon,Guanajuato,1,Empleado,9431.29,f,Bajo,Activo
+126,Fisica,Patricia Castillo Gutierrez,1992-09-20,2026-08-30 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,6179.83,f,Bajo,Activo
+127,Moral,Corporativo Comercio al por menor Ruiz S.A. de C.V.,2016-09-20,2025-04-29 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Comercio al por menor,267589.38,f,Bajo,Activo
+128,Fisica,Patricia Rivera Contreras,1976-09-20,2025-01-12 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,49206.37,f,Bajo,Activo
+129,Fisica,Lucia Contreras Gutierrez,1978-09-20,2025-12-03 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Comerciante,77726.59,f,Bajo,Activo
+130,Fisica,Arturo Lopez Diaz,1977-09-20,2026-02-24 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Empresario,74152.13,f,Bajo,Activo
+131,Fisica,Miguel Mendoza Gutierrez,1981-09-20,2023-10-25 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Empleado,12787.73,f,Bajo,Activo
+132,Fisica,Jose Garcia Vargas,1994-09-20,2025-05-19 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,3099.53,f,Medio,Activo
+133,Fisica,Karla Hernandez Ortiz,1975-09-20,2024-07-22 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Jubilado,10694.82,f,Bajo,Activo
+134,Fisica,Jorge Ortiz Gomez,1990-09-20,2025-09-23 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Profesionista Independiente,92724.53,f,Bajo,Activo
+135,Fisica,Ana Contreras Hernandez,1996-09-20,2024-11-26 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Empleado,41355.62,f,Medio,Activo
+136,Fisica,Roberto Gutierrez Contreras,1978-09-20,2026-05-01 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Profesionista Independiente,113488.13,f,Bajo,Activo
+137,Fisica,Sofia Contreras Rivera,1976-09-20,2024-04-24 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Empleado,9238.67,f,Bajo,Activo
+138,Fisica,Paola Hernandez Sanchez,1980-09-20,2023-10-30 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,104234.80,f,Bajo,Activo
+139,Fisica,Veronica Vazquez Vargas,1959-09-20,2025-12-16 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,23342.58,f,Medio,Activo
+140,Fisica,Daniela Garcia Hernandez,1958-09-20,2026-01-09 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,10266.66,f,Bajo,Activo
+141,Fisica,Claudia Ruiz Diaz,1989-09-20,2024-07-09 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,5541.07,f,Bajo,Activo
+142,Moral,Consultores Tecnologia Reyes S.A. de C.V.,2016-09-20,2026-06-29 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Tecnologia,604455.56,f,Bajo,Activo
+143,Fisica,Patricia Morales Perez,1988-09-20,2026-05-20 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,19949.28,f,Bajo,Activo
+144,Fisica,Daniela Cruz Martinez,1991-09-20,2024-04-27 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Servidor Publico,59638.79,f,Bajo,Activo
+145,Fisica,Maria Flores Rivera,1987-09-20,2025-05-16 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Profesionista Independiente,22454.53,f,Bajo,Activo
+146,Fisica,Monica Aguilar Ortiz,1981-09-20,2026-06-20 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,15925.16,f,Bajo,Activo
+147,Fisica,Veronica Rivera Mendoza,1992-09-20,2025-03-22 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,6328.56,f,Bajo,Activo
+148,Fisica,Gabriela Martinez Sanchez,1970-09-20,2025-03-31 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Empleado,35833.88,f,Bajo,Activo
+149,Fisica,Miguel Ramos Contreras,1994-09-20,2025-12-23 03:35:34.843276,Digital,Leon,Guanajuato,1,Empresario,40704.97,f,Bajo,Activo
+150,Fisica,Juan Gutierrez Diaz,1960-09-20,2026-01-26 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,10358.68,f,Bajo,Activo
+151,Fisica,Roberto Flores Hernandez,1968-09-20,2024-03-01 03:35:34.843276,Ejecutivo,Queretaro,Queretaro,1,Profesionista Independiente,88185.79,f,Bajo,Activo
+152,Fisica,Carlos Gutierrez Martinez,1965-09-20,2025-10-05 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,17815.16,f,Medio,Activo
+153,Fisica,Maria Mendoza Morales,1998-09-20,2025-04-22 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Jubilado,14195.00,f,Bajo,Activo
+154,Fisica,Raul Reyes Contreras,1998-09-20,2025-01-13 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,44968.46,f,Bajo,Activo
+155,Fisica,Alejandro Benitez Hernandez,1989-09-20,2024-10-09 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Estudiante,4026.03,f,Bajo,Activo
+156,Fisica,Alejandro Garcia Hernandez,1999-09-20,2026-08-11 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Comerciante,55810.84,f,Medio,Activo
+157,Fisica,Daniela Gomez Chavez,1975-09-20,2024-01-10 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Comerciante,70887.74,f,Bajo,Activo
+158,Fisica,Andrea Salazar Salazar,1961-09-20,2024-04-12 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Empleado,15272.07,f,Bajo,Activo
+159,Fisica,Claudia Rivera Morales,1975-09-20,2024-06-07 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Comerciante,48110.47,f,Bajo,Activo
+160,Fisica,Luis Cruz Jimenez,1998-09-20,2023-11-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,5386.07,f,Bajo,Activo
+161,Moral,Consultores Transporte y Logistica Ruiz S.A. de C.V.,2010-09-20,2024-03-31 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Transporte y Logistica,3138427.35,f,Bajo,Activo
+162,Fisica,Luis Jimenez Vazquez,1996-09-20,2026-06-04 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,67347.29,f,Bajo,Activo
+163,Fisica,Paola Garcia Lopez,1986-09-20,2024-12-24 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,22842.84,f,Bajo,Activo
+164,Fisica,Sofia Castillo Flores,1984-09-20,2026-03-01 03:35:34.843276,Sucursal,Tijuana,Baja California,1,Comerciante,55015.18,f,Bajo,Activo
+165,Fisica,Daniela Diaz Diaz,1994-09-20,2026-02-18 03:35:34.843276,Ejecutivo,Ecatepec de Morelos,Estado de Mexico,1,Empleado,29543.40,f,Bajo,Activo
+166,Moral,Distribuidora Servicios Profesionales Gonzalez S.A. de C.V.,2016-09-20,2024-10-14 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Servicios Profesionales,1701621.18,f,Bajo,Activo
+167,Fisica,Sofia Chavez Chavez,1996-09-20,2025-05-26 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,61499.57,f,Bajo,Activo
+168,Fisica,Arturo Diaz Vazquez,1992-09-20,2025-12-17 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,41253.69,f,Bajo,Activo
+169,Fisica,Sofia Chavez Aguilar,1969-09-20,2026-09-15 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,119538.64,f,Medio,Activo
+170,Fisica,Ricardo Gutierrez Gonzalez,1962-09-20,2024-07-29 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Servidor Publico,14295.54,f,Alto,Activo
+171,Fisica,Miguel Reyes Ruiz,1994-09-20,2024-06-14 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Comerciante,54000.52,f,Bajo,Activo
+172,Fisica,Fernanda Chavez Rivera,1975-09-20,2026-02-18 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empleado,17047.63,f,Bajo,Activo
+173,Fisica,Maria Garcia Gutierrez,1973-09-20,2024-04-11 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Profesionista Independiente,95340.67,f,Bajo,Activo
+174,Fisica,Gabriela Mendoza Garcia,1980-09-20,2025-10-03 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Estudiante,7889.08,f,Bajo,Activo
+175,Fisica,Jorge Cruz Torres,1996-09-20,2026-07-22 03:35:34.843276,Digital,Tijuana,Baja California,1,Empleado,43049.69,f,Medio,Activo
+176,Fisica,Hector Ruiz Diaz,1990-09-20,2025-06-04 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,34510.57,f,Alto,Activo
+177,Fisica,Lucia Gutierrez Castillo,1994-09-20,2026-08-25 03:35:34.843276,Digital,Merida,Yucatan,1,Estudiante,4685.20,f,Bajo,Activo
+178,Fisica,Carlos Flores Reyes,1977-09-20,2026-02-03 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Jubilado,16519.53,f,Medio,Activo
+179,Fisica,Lucia Garcia Ramirez,1991-09-20,2026-06-01 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Estudiante,2246.84,f,Bajo,Activo
+180,Fisica,Lucia Salazar Martinez,1985-09-20,2026-05-17 03:35:34.843276,Digital,Merida,Yucatan,1,Comerciante,37859.99,f,Medio,Activo
+181,Fisica,Gabriela Cruz Contreras,1980-09-20,2026-02-03 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,62158.36,f,Bajo,Activo
+182,Fisica,Patricia Jimenez Morales,1977-09-20,2026-06-26 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Jubilado,8891.52,f,Medio,Activo
+183,Fisica,Carlos Diaz Gomez,1973-09-20,2024-02-08 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,161.39,t,Bajo,Activo
+184,Fisica,Sofia Sanchez Mendoza,1966-09-20,2025-01-18 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Profesionista Independiente,101483.60,f,Bajo,Activo
+185,Fisica,Monica Mendoza Gonzalez,1985-09-20,2023-11-02 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,78055.51,f,Bajo,Activo
+186,Fisica,Andrea Ramos Reyes,1989-09-20,2026-07-10 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Estudiante,6166.19,f,Bajo,Activo
+187,Fisica,Arturo Martinez Contreras,1997-09-20,2025-03-12 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Servidor Publico,22846.67,f,Bajo,Activo
+188,Fisica,Gabriela Salazar Diaz,1991-09-20,2025-03-21 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empleado,26479.74,f,Medio,Activo
+189,Fisica,Jose Vargas Perez,1963-09-20,2023-11-27 03:35:34.843276,Digital,Puebla,Puebla,1,Comerciante,75370.98,f,Bajo,Activo
+190,Fisica,Luis Sanchez Perez,1983-09-20,2024-05-31 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,305902.99,f,Bajo,Activo
+191,Fisica,Claudia Ortiz Mendoza,2000-09-20,2024-07-20 03:35:34.843276,Ejecutivo,Culiacan,Sinaloa,1,Jubilado,27096.22,f,Bajo,Activo
+192,Fisica,Ana Hernandez Lopez,2000-09-20,2024-04-07 03:35:34.843276,Digital,Puebla,Puebla,1,Empleado,14768.61,f,Bajo,Activo
+193,Fisica,Andrea Reyes Mendoza,1963-09-20,2026-03-20 03:35:34.843276,Digital,Tijuana,Baja California,1,Empresario,133084.34,f,Bajo,Activo
+194,Fisica,Ricardo Diaz Hernandez,1986-09-20,2023-12-17 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,12479.54,f,Bajo,Activo
+195,Fisica,Karla Morales Ramos,1993-09-20,2024-08-13 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Comerciante,44056.19,f,Bajo,Activo
+196,Moral,Soluciones Importacion y Exportacion Ramirez S.A. de C.V.,2015-09-20,2024-05-29 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Importacion y Exportacion,94102.53,f,Bajo,Activo
+197,Moral,Grupo Servicios Profesionales Gomez S.A. de C.V.,2023-09-20,2024-08-03 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Servicios Profesionales,1000040.89,f,Bajo,Activo
+198,Fisica,Sofia Salazar Diaz,1984-09-20,2025-09-25 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Servidor Publico,35107.63,f,Medio,Activo
+199,Fisica,Ricardo Cruz Flores,1984-09-20,2025-12-11 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Empleado,11308.40,f,Alto,Activo
+200,Fisica,Sergio Benitez Garcia,1967-09-20,2023-12-12 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,71963.50,f,Bajo,Activo
+201,Fisica,Patricia Salazar Cruz,1991-09-20,2025-11-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,45964.45,f,Alto,Activo
+202,Fisica,Ricardo Torres Vazquez,2004-09-20,2026-03-18 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,44265.69,f,Bajo,Activo
+203,Fisica,Francisco Torres Hernandez,1976-09-20,2024-04-25 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,40096.63,f,Bajo,Activo
+204,Fisica,Arturo Castillo Hernandez,2001-09-20,2025-06-05 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Empresario,310564.47,f,Bajo,Activo
+205,Fisica,Jose Flores Flores,1996-09-20,2026-07-14 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Empresario,312926.93,f,Bajo,Activo
+206,Fisica,Eduardo Martinez Vargas,1960-09-20,2024-06-25 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,38483.77,f,Bajo,Activo
+207,Moral,Logistica Joyeria Salazar S.A. de C.V.,2019-09-20,2024-03-09 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Joyeria,664097.68,f,Bajo,Activo
+208,Fisica,Claudia Garcia Gomez,1964-09-20,2024-02-17 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Jubilado,23447.05,f,Bajo,Activo
+209,Fisica,Francisco Aguilar Contreras,1968-09-20,2025-12-20 03:35:34.843276,Digital,Merida,Yucatan,1,Comerciante,76121.03,f,Medio,Activo
+210,Fisica,Lucia Flores Gomez,2004-09-20,2025-10-24 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Jubilado,9319.33,f,Bajo,Activo
+211,Moral,Industrias Bienes Raices Aguilar S.A. de C.V.,2012-09-20,2023-10-30 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Bienes Raices,236304.73,f,Bajo,Activo
+212,Fisica,Alejandro Gomez Gutierrez,1970-09-20,2024-05-11 03:35:34.843276,Ejecutivo,Puebla,Puebla,1,Comerciante,39176.42,f,Bajo,Activo
+213,Fisica,Lucia Gomez Gomez,1993-09-20,2024-09-08 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,31798.79,f,Bajo,Activo
+214,Fisica,Raul Ramos Ramos,1965-09-20,2025-07-03 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Profesionista Independiente,15997.72,f,Medio,Activo
+215,Fisica,Monica Ramirez Mendoza,2002-09-20,2025-10-24 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,60119.20,f,Bajo,Activo
+216,Fisica,Gabriela Flores Perez,1998-09-20,2025-05-22 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,43807.73,f,Bajo,Activo
+217,Fisica,Fernanda Lopez Ruiz,1972-09-20,2024-07-07 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,14507.22,f,Bajo,Activo
+218,Fisica,Roberto Vazquez Perez,1969-09-20,2024-11-18 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empresario,166070.85,f,Bajo,Activo
+219,Fisica,Luis Salazar Cruz,1982-09-20,2024-12-27 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,34223.61,f,Bajo,Activo
+220,Moral,Industrias Restaurantero Vargas S.A. de C.V.,2008-09-20,2024-04-03 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Restaurantero,1176615.97,f,Bajo,Activo
+221,Fisica,Carlos Chavez Ramirez,1994-09-20,2025-02-19 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Estudiante,2903.13,f,Bajo,Activo
+222,Fisica,Roberto Mendoza Ramirez,1989-09-20,2026-01-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,2234.22,t,Bajo,Activo
+223,Fisica,Patricia Ramos Salazar,1985-09-20,2023-12-16 03:35:34.843276,Ejecutivo,Queretaro,Queretaro,1,Empleado,38327.48,f,Bajo,Activo
+224,Fisica,Juan Ruiz Mendoza,1989-09-20,2024-01-01 03:35:34.843276,Digital,Puebla,Puebla,1,Servidor Publico,34154.07,f,Bajo,Activo
+225,Fisica,Ana Jimenez Ortiz,1974-09-20,2023-10-16 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empleado,13506.34,f,Bajo,Activo
+226,Fisica,Raul Perez Perez,1998-09-20,2026-09-07 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Empresario,85072.51,f,Bajo,Activo
+227,Moral,Logistica Bienes Raices Hernandez S.A. de C.V.,2013-09-20,2024-11-22 03:35:34.843276,Digital,Puebla,Puebla,1,Bienes Raices,1014743.56,f,Medio,Activo
+228,Fisica,Carlos Benitez Gonzalez,1980-09-20,2024-11-17 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,68799.29,f,Bajo,Activo
+229,Fisica,Patricia Chavez Torres,1984-09-20,2025-10-24 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,64532.51,f,Bajo,Activo
+230,Fisica,Maria Mendoza Perez,1995-09-20,2025-04-14 03:35:34.843276,Sucursal,Puebla,Puebla,1,Empleado,17162.78,f,Bajo,Activo
+231,Fisica,Jorge Gutierrez Rivera,1986-09-20,2026-04-10 03:35:34.843276,Digital,Puebla,Puebla,1,Profesionista Independiente,80206.71,f,Alto,Activo
+232,Moral,Logistica Importacion y Exportacion Benitez S.A. de C.V.,2025-09-20,2023-12-26 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Importacion y Exportacion,3770946.34,f,Bajo,Activo
+233,Fisica,Laura Gutierrez Morales,1975-09-20,2026-05-29 03:35:34.843276,Ejecutivo,Ecatepec de Morelos,Estado de Mexico,1,Empresario,74154.79,f,Bajo,Activo
+234,Fisica,Sergio Vargas Gutierrez,1999-09-20,2026-02-05 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,15448.01,f,Medio,Activo
+235,Fisica,Patricia Rivera Salazar,1964-09-20,2026-03-12 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Estudiante,6951.52,f,Medio,Activo
+236,Fisica,Francisco Mendoza Diaz,2000-09-20,2024-04-06 03:35:34.843276,Digital,Leon,Guanajuato,1,Comerciante,34651.69,f,Medio,Activo
+237,Fisica,Andrea Perez Ramirez,1984-09-20,2026-02-27 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,26857.66,f,Bajo,Activo
+238,Fisica,Lucia Reyes Torres,1980-09-20,2025-02-12 03:35:34.843276,Digital,Puebla,Puebla,1,Empresario,310965.66,f,Bajo,Activo
+239,Fisica,Jose Hernandez Flores,1963-09-20,2024-01-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,16659.11,f,Alto,Activo
+240,Fisica,Raul Perez Vargas,1991-09-20,2026-07-09 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empresario,47287.15,f,Bajo,Activo
+241,Fisica,Carlos Ruiz Gomez,1991-09-20,2026-03-12 03:35:34.843276,Sucursal,Merida,Yucatan,1,Servidor Publico,13476.12,f,Medio,Activo
+242,Fisica,Eduardo Garcia Vazquez,1985-09-20,2026-01-11 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,21539.87,f,Medio,Activo
+243,Moral,Corporativo Construccion Salazar S.A. de C.V.,2009-09-20,2024-09-10 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Construccion,192021.52,f,Medio,Activo
+244,Fisica,Roberto Ruiz Gonzalez,2000-09-20,2025-02-15 03:35:34.843276,Sucursal,Puebla,Puebla,1,Jubilado,9323.55,f,Bajo,Activo
+245,Fisica,Patricia Ramos Chavez,1994-09-20,2023-09-24 03:35:34.843276,Sucursal,Puebla,Puebla,1,Empresario,243439.91,f,Bajo,Activo
+246,Fisica,Alejandro Cruz Aguilar,1961-09-20,2024-11-06 03:35:34.843276,Digital,Queretaro,Queretaro,1,Servidor Publico,42833.93,f,Bajo,Activo
+247,Fisica,Roberto Aguilar Martinez,1976-09-20,2025-06-15 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Empresario,312309.25,f,Medio,Activo
+248,Moral,Soluciones Transporte y Logistica Martinez S.A. de C.V.,2010-09-20,2025-05-24 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Transporte y Logistica,825021.82,f,Bajo,Activo
+249,Fisica,Karla Sanchez Lopez,2004-09-20,2025-06-26 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Empresario,215190.80,f,Bajo,Activo
+250,Fisica,Francisco Martinez Hernandez,1959-09-20,2024-07-03 03:35:34.843276,Digital,Queretaro,Queretaro,1,Profesionista Independiente,28888.47,f,Bajo,Activo
+251,Fisica,Andrea Chavez Lopez,2003-09-20,2025-12-26 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Empresario,267697.51,f,Bajo,Activo
+252,Moral,Soluciones Tecnologia Lopez S.A. de C.V.,2014-09-20,2025-05-31 03:35:34.843276,Digital,Merida,Yucatan,1,Tecnologia,123223.70,f,Bajo,Activo
+253,Fisica,Veronica Salazar Ramos,1983-09-20,2026-05-11 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empleado,24483.61,f,Bajo,Activo
+254,Fisica,Daniela Ramirez Ramos,1963-09-20,2026-03-17 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Servidor Publico,16815.21,f,Bajo,Activo
+255,Fisica,Hector Flores Reyes,1999-09-20,2025-01-27 03:35:34.843276,Digital,Merida,Yucatan,1,Empleado,18643.75,f,Bajo,Activo
+256,Fisica,Carlos Sanchez Chavez,1994-09-20,2024-07-03 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,109950.79,f,Bajo,Activo
+257,Fisica,Francisco Lopez Perez,1964-09-20,2025-05-06 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Estudiante,4424.76,f,Medio,Activo
+258,Fisica,Ana Flores Chavez,1958-09-20,2024-09-27 03:35:34.843276,Sucursal,Merida,Yucatan,1,Empleado,21817.88,t,Bajo,Activo
+259,Moral,Consultores Casa de Cambio Mendoza S.A. de C.V.,2013-09-20,2024-02-21 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Casa de Cambio,2110075.95,f,Bajo,Activo
+260,Fisica,Arturo Gomez Lopez,1970-09-20,2024-11-21 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,7237.65,f,Bajo,Activo
+261,Moral,Grupo Restaurantero Sanchez S.A. de C.V.,2016-09-20,2024-04-02 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Restaurantero,1969146.03,f,Bajo,Activo
+262,Fisica,Gabriela Garcia Gomez,1961-09-20,2026-04-09 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,20380.20,f,Bajo,Activo
+263,Fisica,Roberto Garcia Castillo,1983-09-20,2025-04-08 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Profesionista Independiente,98749.13,f,Bajo,Activo
+264,Fisica,Miguel Mendoza Gomez,1993-09-20,2026-06-20 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,29681.87,f,Bajo,Activo
+265,Fisica,Veronica Vazquez Salazar,1978-09-20,2024-12-17 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Profesionista Independiente,36286.51,f,Bajo,Activo
+266,Fisica,Patricia Diaz Ruiz,1974-09-20,2024-01-30 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,3216.19,f,Medio,Activo
+267,Fisica,Carlos Gutierrez Sanchez,2002-09-20,2025-04-11 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Comerciante,66074.18,f,Bajo,Activo
+268,Fisica,Daniela Gomez Torres,1972-09-20,2025-05-04 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,16635.03,f,Medio,Activo
+269,Fisica,Juan Ramirez Morales,1962-09-20,2025-05-20 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,13004.21,f,Alto,Activo
+270,Fisica,Arturo Torres Lopez,1983-09-20,2025-12-15 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,42883.57,f,Bajo,Activo
+271,Fisica,Fernanda Mendoza Vargas,1993-09-20,2025-05-04 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empleado,34057.29,f,Medio,Activo
+272,Moral,Soluciones Bienes Raices Mendoza S.A. de C.V.,2009-09-20,2024-04-06 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Bienes Raices,1511195.53,f,Bajo,Activo
+273,Fisica,Monica Sanchez Ramos,1994-09-20,2024-08-03 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,76184.38,f,Bajo,Activo
+274,Fisica,Francisco Gonzalez Ortiz,1988-09-20,2024-05-29 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,73068.35,f,Bajo,Activo
+275,Fisica,Lucia Perez Gutierrez,1966-09-20,2024-01-23 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Servidor Publico,35349.06,f,Bajo,Activo
+276,Fisica,Fernanda Garcia Lopez,1989-09-20,2026-09-14 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empresario,111607.50,f,Bajo,Activo
+277,Fisica,Miguel Diaz Jimenez,1965-09-20,2024-01-08 03:35:34.843276,Digital,Puebla,Puebla,1,Profesionista Independiente,99803.33,f,Bajo,Activo
+278,Fisica,Sofia Flores Sanchez,1973-09-20,2024-08-31 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Comerciante,69228.90,f,Medio,Activo
+279,Fisica,Alejandro Mendoza Castillo,1998-09-20,2025-12-23 03:35:34.843276,Ejecutivo,Chihuahua,Chihuahua,1,Empleado,10064.44,f,Medio,Activo
+280,Fisica,Fernanda Garcia Gomez,1978-09-20,2026-06-24 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,58086.77,f,Bajo,Activo
+281,Fisica,Paola Ramirez Cruz,1978-09-20,2026-08-05 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Jubilado,15403.41,f,Bajo,Activo
+282,Fisica,Sofia Lopez Rivera,1979-09-20,2025-04-17 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,7216.24,f,Bajo,Activo
+283,Moral,Soluciones Casa de Cambio Jimenez S.A. de C.V.,2011-09-20,2025-04-22 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Casa de Cambio,2692514.11,f,Bajo,Activo
+284,Moral,Corporativo Casa de Cambio Torres S.A. de C.V.,2024-09-20,2024-11-20 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Casa de Cambio,589709.28,f,Bajo,Activo
+285,Fisica,Maria Ruiz Torres,1971-09-20,2024-09-25 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,14256.96,f,Bajo,Activo
+286,Fisica,Veronica Perez Castillo,2003-09-20,2026-06-17 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,50572.43,f,Bajo,Activo
+287,Fisica,Roberto Ramos Castillo,1977-09-20,2023-11-12 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Profesionista Independiente,53185.84,f,Bajo,Activo
+288,Fisica,Patricia Diaz Rivera,1999-09-20,2023-12-01 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servidor Publico,21012.47,f,Bajo,Activo
+289,Fisica,Juan Rivera Chavez,1959-09-20,2023-11-12 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,14299.60,f,Bajo,Activo
+290,Fisica,Ricardo Diaz Ortiz,2002-09-20,2026-05-30 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,18103.89,f,Medio,Activo
+291,Fisica,Veronica Mendoza Martinez,1991-09-20,2024-03-24 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Comerciante,77586.93,f,Bajo,Activo
+292,Fisica,Daniela Castillo Lopez,1960-09-20,2026-01-19 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Estudiante,3013.66,f,Bajo,Activo
+293,Fisica,Ana Mendoza Diaz,1984-09-20,2025-09-26 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Empresario,139512.78,f,Bajo,Activo
+294,Moral,Comercializadora Restaurantero Benitez S.A. de C.V.,2021-09-20,2025-09-29 03:35:34.843276,Digital,Puebla,Puebla,1,Restaurantero,1025509.18,f,Bajo,Activo
+295,Fisica,Arturo Torres Gomez,1985-09-20,2025-11-25 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Comerciante,63339.79,f,Bajo,Activo
+296,Moral,Comercializadora Joyeria Gonzalez S.A. de C.V.,2019-09-20,2024-07-14 03:35:34.843276,Digital,Merida,Yucatan,1,Joyeria,663999.08,f,Bajo,Activo
+297,Fisica,Daniela Chavez Morales,1971-09-20,2025-10-21 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Empresario,194655.16,f,Alto,Activo
+298,Fisica,Roberto Vazquez Garcia,2003-09-20,2024-01-26 03:35:34.843276,Digital,Tijuana,Baja California,1,Empleado,35392.01,f,Medio,Activo
+299,Fisica,Hector Flores Ramos,1967-09-20,2026-08-01 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Comerciante,25555.47,f,Bajo,Activo
+300,Fisica,Miguel Morales Flores,1961-09-20,2024-01-01 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empresario,318523.55,f,Alto,Activo
+301,Fisica,Paola Benitez Vazquez,1993-09-20,2023-12-05 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,46893.69,f,Bajo,Activo
+302,Fisica,Daniela Chavez Gomez,1972-09-20,2026-02-15 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,57123.44,f,Bajo,Activo
+303,Fisica,Raul Vazquez Morales,1962-09-20,2025-01-27 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,11153.88,f,Bajo,Activo
+304,Fisica,Raul Cruz Vargas,1988-09-20,2025-07-21 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servidor Publico,14629.24,f,Bajo,Activo
+305,Fisica,Arturo Perez Flores,1968-09-20,2026-01-24 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Servidor Publico,47632.04,f,Bajo,Activo
+306,Fisica,Ricardo Lopez Aguilar,1995-09-20,2025-05-20 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Servidor Publico,30842.49,f,Medio,Activo
+307,Fisica,Alejandro Ruiz Mendoza,1965-09-20,2025-03-04 03:35:34.843276,Digital,Queretaro,Queretaro,1,Comerciante,17877.74,f,Bajo,Activo
+308,Fisica,Luis Flores Aguilar,2001-09-20,2025-04-19 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,20382.38,f,Bajo,Activo
+309,Fisica,Sofia Martinez Martinez,1965-09-20,2024-10-05 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Empleado,37267.69,f,Bajo,Activo
+310,Fisica,Miguel Ruiz Chavez,1990-09-20,2026-08-09 03:35:34.843276,Ejecutivo,Puebla,Puebla,1,Servidor Publico,59070.86,f,Bajo,Activo
+311,Fisica,Sergio Castillo Torres,1958-09-20,2026-02-16 03:35:34.843276,Sucursal,Merida,Yucatan,1,Comerciante,59105.70,f,Bajo,Activo
+312,Fisica,Gabriela Gomez Jimenez,1967-09-20,2023-10-17 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Servidor Publico,27538.84,f,Bajo,Activo
+313,Fisica,Karla Jimenez Morales,1971-09-20,2025-07-08 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Empleado,44544.48,f,Bajo,Activo
+314,Moral,Logistica Tecnologia Cruz S.A. de C.V.,2009-09-20,2026-01-16 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Tecnologia,142634.87,f,Bajo,Activo
+315,Fisica,Sergio Morales Ruiz,1996-09-20,2026-07-08 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,74066.69,f,Bajo,Activo
+316,Fisica,Roberto Gutierrez Reyes,1990-09-20,2024-10-18 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,113875.43,f,Bajo,Activo
+317,Fisica,Fernanda Mendoza Rivera,1972-09-20,2024-09-09 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,49407.10,f,Medio,Activo
+318,Fisica,Francisco Contreras Ortiz,1969-09-20,2026-01-27 03:35:34.843276,Sucursal,Merida,Yucatan,1,Estudiante,3283.37,f,Medio,Activo
+319,Fisica,Laura Gonzalez Diaz,2001-09-20,2026-02-25 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Empleado,25850.58,f,Bajo,Activo
+320,Fisica,Arturo Reyes Hernandez,1968-09-20,2025-04-22 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,84292.78,f,Bajo,Activo
+321,Moral,Constructora Tecnologia Diaz S.A. de C.V.,2022-09-20,2023-12-23 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Tecnologia,123003.58,f,Bajo,Activo
+322,Fisica,Veronica Ruiz Sanchez,1971-09-20,2026-02-18 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Estudiante,6758.44,f,Bajo,Activo
+323,Fisica,Carlos Chavez Ramos,2003-09-20,2023-11-14 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,305460.63,f,Bajo,Activo
+324,Fisica,Francisco Hernandez Vazquez,1992-09-20,2024-11-03 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,74377.10,f,Bajo,Activo
+325,Fisica,Eduardo Lopez Gonzalez,1988-09-20,2024-06-22 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Empresario,147658.18,f,Medio,Activo
+326,Fisica,Paola Salazar Gutierrez,1978-09-20,2025-09-14 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,242238.57,f,Medio,Activo
+327,Fisica,Lucia Reyes Vargas,1972-09-20,2025-04-25 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Comerciante,33430.19,f,Medio,Activo
+328,Fisica,Ricardo Vazquez Chavez,1961-09-20,2025-11-04 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Jubilado,19950.80,f,Bajo,Activo
+329,Fisica,Hector Chavez Flores,1957-09-20,2026-03-03 03:35:34.843276,Ejecutivo,Chihuahua,Chihuahua,1,Comerciante,45538.70,f,Alto,Activo
+330,Moral,Corporativo Construccion Gutierrez S.A. de C.V.,2006-09-20,2026-08-22 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Construccion,528485.69,f,Medio,Activo
+331,Fisica,Hector Castillo Ramos,1983-09-20,2024-06-19 03:35:34.843276,Digital,Leon,Guanajuato,1,Empleado,13271.22,f,Bajo,Activo
+332,Fisica,Arturo Cruz Diaz,1958-09-20,2025-08-28 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Comerciante,28243.00,f,Bajo,Activo
+333,Fisica,Andrea Benitez Lopez,1975-09-20,2024-07-01 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,29933.30,t,Bajo,Activo
+334,Fisica,Luis Cruz Cruz,2004-09-20,2024-07-01 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Profesionista Independiente,115161.59,f,Bajo,Activo
+335,Fisica,Miguel Benitez Gutierrez,2001-09-20,2024-08-10 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,6011.02,f,Medio,Activo
+336,Fisica,Jorge Ruiz Rivera,1966-09-20,2026-01-07 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,42326.27,f,Bajo,Activo
+337,Fisica,Alejandro Mendoza Aguilar,1977-09-20,2024-10-22 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Profesionista Independiente,23125.49,f,Medio,Activo
+338,Fisica,Arturo Benitez Garcia,1959-09-20,2025-05-10 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Estudiante,275.79,f,Medio,Activo
+339,Fisica,Hector Jimenez Morales,1983-09-20,2024-12-13 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,4994.81,f,Medio,Activo
+340,Fisica,Gabriela Ortiz Flores,2004-09-20,2025-04-16 03:35:34.843276,Sucursal,Puebla,Puebla,1,Comerciante,44751.54,f,Medio,Activo
+341,Fisica,Paola Ramirez Salazar,1991-09-20,2025-07-27 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,6009.64,f,Bajo,Activo
+342,Fisica,Eduardo Garcia Rivera,1980-09-20,2025-12-14 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Jubilado,28783.30,f,Alto,Activo
+343,Fisica,Arturo Ruiz Benitez,1979-09-20,2024-11-29 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,55258.69,f,Bajo,Activo
+344,Fisica,Monica Diaz Gomez,1980-09-20,2026-05-19 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,2267.69,f,Bajo,Activo
+345,Fisica,Laura Sanchez Gonzalez,1957-09-20,2025-02-10 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,67451.73,f,Bajo,Activo
+346,Fisica,Daniela Martinez Rivera,1983-09-20,2026-03-22 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,2126.80,f,Alto,Activo
+347,Fisica,Fernanda Mendoza Lopez,1975-09-20,2025-08-06 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Estudiante,2296.42,f,Bajo,Activo
+348,Fisica,Arturo Reyes Chavez,1979-09-20,2023-12-15 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,1633.92,f,Alto,Activo
+349,Fisica,Arturo Torres Vazquez,1973-09-20,2026-09-15 03:35:34.843276,Ejecutivo,Leon,Guanajuato,1,Servidor Publico,13256.44,f,Bajo,Activo
+350,Fisica,Patricia Mendoza Vazquez,1973-09-20,2024-05-02 03:35:34.843276,Digital,Puebla,Puebla,1,Estudiante,4831.40,f,Bajo,Activo
+351,Fisica,Ricardo Castillo Flores,1988-09-20,2025-07-13 03:35:34.843276,Sucursal,Tijuana,Baja California,1,Estudiante,6829.20,f,Bajo,Activo
+352,Fisica,Luis Morales Ramos,1961-09-20,2024-04-16 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,29951.65,f,Medio,Activo
+353,Fisica,Juan Martinez Gutierrez,1969-09-20,2024-03-19 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,10998.61,f,Medio,Activo
+354,Fisica,Hector Martinez Sanchez,2001-09-20,2025-10-04 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Servidor Publico,36366.28,f,Alto,Activo
+355,Fisica,Lucia Ruiz Ramirez,1989-09-20,2026-08-08 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Profesionista Independiente,35694.16,f,Medio,Activo
+356,Fisica,Andrea Ruiz Ramirez,1991-09-20,2025-09-18 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Profesionista Independiente,29678.41,f,Bajo,Activo
+357,Moral,Logistica Joyeria Contreras S.A. de C.V.,2020-09-20,2025-05-23 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Joyeria,592561.46,f,Bajo,Activo
+358,Fisica,Hector Jimenez Aguilar,1973-09-20,2025-10-10 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,69230.05,t,Bajo,Activo
+359,Fisica,Juan Perez Torres,1999-09-20,2025-11-28 03:35:34.843276,Digital,Puebla,Puebla,1,Empresario,72163.72,f,Alto,Activo
+360,Fisica,Monica Jimenez Ramirez,1985-09-20,2026-06-22 03:35:34.843276,Digital,Merida,Yucatan,1,Empresario,303353.24,f,Bajo,Activo
+361,Moral,Servicios Construccion Contreras S.A. de C.V.,2014-09-20,2026-02-16 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Construccion,53406.06,f,Bajo,Activo
+362,Fisica,Juan Perez Ramirez,1971-09-20,2024-11-09 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,14165.68,f,Bajo,Activo
+363,Fisica,Arturo Martinez Ramirez,1975-09-20,2026-05-28 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Jubilado,15177.12,f,Bajo,Activo
+364,Fisica,Juan Diaz Castillo,1957-09-20,2025-04-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,15690.68,f,Medio,Activo
+365,Fisica,Arturo Castillo Garcia,1963-09-20,2024-10-25 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Estudiante,7193.06,f,Bajo,Activo
+366,Fisica,Raul Jimenez Cruz,1960-09-20,2026-04-19 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,22085.92,f,Bajo,Activo
+367,Fisica,Maria Ramirez Mendoza,1982-09-20,2025-01-08 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,15676.76,f,Bajo,Activo
+368,Fisica,Alejandro Garcia Vazquez,1996-09-20,2023-11-23 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,47425.96,f,Bajo,Activo
+369,Fisica,Raul Gomez Rivera,1979-09-20,2024-12-25 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Comerciante,33684.86,f,Bajo,Activo
+370,Fisica,Ana Reyes Gonzalez,1977-09-20,2023-12-20 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,106129.47,f,Medio,Activo
+371,Fisica,Andrea Diaz Ramirez,1964-09-20,2024-12-23 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Comerciante,40824.70,f,Bajo,Activo
+372,Fisica,Eduardo Sanchez Contreras,1997-09-20,2023-11-16 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Empleado,33308.31,f,Bajo,Activo
+373,Fisica,Alejandro Hernandez Flores,1985-09-20,2025-02-02 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,30604.57,f,Bajo,Activo
+374,Fisica,Ricardo Ramirez Rivera,1978-09-20,2024-05-03 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Profesionista Independiente,83353.28,f,Medio,Activo
+375,Fisica,Gabriela Benitez Ramirez,1962-09-20,2025-02-23 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empleado,34748.29,f,Bajo,Activo
+376,Fisica,Carlos Hernandez Ruiz,1977-09-20,2024-12-20 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Servidor Publico,23377.64,f,Medio,Activo
+377,Fisica,Maria Gutierrez Salazar,1975-09-20,2024-07-31 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,40805.79,f,Bajo,Activo
+378,Fisica,Andrea Salazar Gonzalez,1973-09-20,2026-03-20 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Empleado,27199.80,f,Bajo,Activo
+379,Fisica,Roberto Chavez Lopez,1985-09-20,2024-05-19 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empleado,37485.62,f,Bajo,Activo
+380,Fisica,Karla Ruiz Castillo,1966-09-20,2023-10-31 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empresario,128710.83,f,Medio,Activo
+381,Fisica,Jorge Mendoza Gomez,1988-09-20,2024-03-20 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,185131.84,f,Bajo,Activo
+382,Fisica,Hector Benitez Lopez,1999-09-20,2024-08-14 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Profesionista Independiente,53020.80,f,Bajo,Activo
+383,Fisica,Claudia Gutierrez Flores,1983-09-20,2025-04-19 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Comerciante,64522.85,f,Bajo,Activo
+384,Fisica,Sergio Rivera Mendoza,1971-09-20,2026-03-31 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,60204.76,f,Bajo,Activo
+385,Fisica,Ana Ruiz Cruz,2004-09-20,2026-07-21 03:35:34.843276,Sucursal,Merida,Yucatan,1,Empleado,12245.13,t,Medio,Activo
+386,Fisica,Daniela Vazquez Rivera,1991-09-20,2025-12-22 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,11667.77,f,Bajo,Activo
+387,Fisica,Paola Ramirez Perez,1989-09-20,2024-05-31 03:35:34.843276,Digital,Puebla,Puebla,1,Empleado,29769.68,f,Bajo,Activo
+388,Fisica,Sofia Lopez Diaz,1977-09-20,2023-11-28 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Empleado,26678.81,f,Medio,Activo
+389,Fisica,Karla Rivera Ortiz,2004-09-20,2024-06-15 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,68327.32,f,Bajo,Activo
+390,Fisica,Sofia Ramirez Sanchez,1962-09-20,2025-03-10 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empresario,180012.13,f,Alto,Activo
+391,Fisica,Arturo Chavez Vazquez,1996-09-20,2025-08-03 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Empleado,44732.08,f,Bajo,Activo
+392,Fisica,Karla Flores Sanchez,1998-09-20,2023-11-03 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Jubilado,18886.14,f,Bajo,Activo
+393,Fisica,Raul Vargas Aguilar,1984-09-20,2026-07-07 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,87426.47,f,Bajo,Activo
+394,Fisica,Juan Contreras Morales,1984-09-20,2023-09-27 03:35:34.843276,Digital,Merida,Yucatan,1,Profesionista Independiente,25877.57,f,Bajo,Activo
+395,Fisica,Karla Vargas Cruz,1957-09-20,2024-07-28 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,2572.51,f,Medio,Activo
+396,Fisica,Ricardo Rivera Sanchez,1957-09-20,2025-04-08 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Jubilado,25032.14,f,Bajo,Activo
+397,Fisica,Gabriela Salazar Perez,1972-09-20,2025-10-16 03:35:34.843276,Ejecutivo,Chihuahua,Chihuahua,1,Profesionista Independiente,103854.32,f,Bajo,Activo
+398,Fisica,Ricardo Ramos Diaz,1995-09-20,2025-05-03 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empleado,34584.45,f,Bajo,Activo
+399,Fisica,Eduardo Garcia Contreras,2000-09-20,2023-11-27 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Estudiante,4276.06,f,Medio,Activo
+400,Fisica,Sofia Vazquez Torres,1998-09-20,2023-10-24 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,11437.14,f,Bajo,Activo
+401,Fisica,Laura Aguilar Lopez,2001-09-20,2026-07-13 03:35:34.843276,Digital,Merida,Yucatan,1,Comerciante,45674.77,f,Medio,Activo
+402,Fisica,Raul Torres Martinez,1996-09-20,2026-03-07 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Comerciante,50882.92,f,Bajo,Activo
+403,Fisica,Hector Ramirez Benitez,1977-09-20,2026-03-13 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empresario,342781.95,f,Bajo,Activo
+404,Fisica,Veronica Reyes Lopez,1997-09-20,2025-05-30 03:35:34.843276,Digital,Puebla,Puebla,1,Empleado,35902.23,f,Bajo,Activo
+405,Fisica,Roberto Hernandez Diaz,1959-09-20,2024-07-12 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Profesionista Independiente,33885.90,f,Bajo,Activo
+406,Fisica,Maria Rivera Cruz,1976-09-20,2024-12-07 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Empleado,24368.58,f,Bajo,Activo
+407,Fisica,Daniela Vazquez Torres,1991-09-20,2025-11-06 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Comerciante,74597.86,f,Bajo,Activo
+408,Fisica,Monica Torres Ramos,1984-09-20,2024-06-21 03:35:34.843276,Digital,Merida,Yucatan,1,Servidor Publico,51786.98,f,Bajo,Activo
+409,Fisica,Roberto Ramirez Gutierrez,1981-09-20,2025-03-13 03:35:34.843276,Digital,Queretaro,Queretaro,1,Servidor Publico,53859.57,f,Medio,Activo
+410,Fisica,Roberto Ramirez Lopez,2003-09-20,2024-03-24 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,64543.98,f,Bajo,Activo
+411,Fisica,Daniela Ramos Perez,1993-09-20,2024-12-06 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Profesionista Independiente,52501.03,f,Bajo,Activo
+412,Fisica,Gabriela Perez Aguilar,1959-09-20,2026-06-04 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empleado,12069.54,f,Bajo,Activo
+413,Fisica,Arturo Flores Vargas,1972-09-20,2024-10-16 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Empleado,16119.05,f,Bajo,Activo
+414,Moral,Industrias Bienes Raices Sanchez S.A. de C.V.,2017-09-20,2025-07-07 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Bienes Raices,1200558.70,f,Medio,Activo
+415,Fisica,Carlos Contreras Ramos,1973-09-20,2024-09-24 03:35:34.843276,Sucursal,Merida,Yucatan,1,Comerciante,29827.62,f,Bajo,Activo
+416,Fisica,Fernanda Hernandez Gomez,1997-09-20,2026-03-16 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,1313.04,f,Alto,Activo
+417,Fisica,Luis Chavez Gonzalez,1977-09-20,2023-12-13 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,10062.38,f,Bajo,Activo
+418,Fisica,Monica Garcia Mendoza,1957-09-20,2023-11-17 03:35:34.843276,Digital,Leon,Guanajuato,1,Empresario,282931.15,f,Bajo,Activo
+419,Fisica,Hector Gonzalez Contreras,1957-09-20,2024-05-29 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empresario,305796.47,f,Bajo,Activo
+420,Fisica,Hector Jimenez Benitez,1985-09-20,2024-01-23 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,115133.47,t,Medio,Activo
+421,Fisica,Patricia Martinez Flores,1963-09-20,2026-02-17 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,52595.66,f,Bajo,Activo
+422,Moral,Grupo Servicios Profesionales Cruz S.A. de C.V.,2009-09-20,2025-03-21 03:35:34.843276,Sucursal,Puebla,Puebla,1,Servicios Profesionales,1422889.35,f,Bajo,Activo
+423,Fisica,Juan Chavez Rivera,2004-09-20,2026-04-01 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Estudiante,2883.93,f,Bajo,Activo
+424,Fisica,Jorge Rivera Gonzalez,1979-09-20,2024-02-09 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Comerciante,51725.18,f,Bajo,Activo
+425,Fisica,Karla Flores Flores,1972-09-20,2025-07-22 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Estudiante,2397.51,t,Bajo,Activo
+426,Fisica,Ricardo Ruiz Hernandez,1968-09-20,2026-01-06 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Estudiante,5840.60,f,Bajo,Activo
+427,Fisica,Juan Cruz Ortiz,1992-09-20,2024-08-31 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,27774.38,t,Medio,Activo
+428,Fisica,Luis Chavez Lopez,1973-09-20,2026-04-29 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Empresario,335325.34,f,Bajo,Activo
+429,Fisica,Lucia Lopez Aguilar,1998-09-20,2024-12-20 03:35:34.843276,Digital,Merida,Yucatan,1,Profesionista Independiente,106629.13,f,Medio,Activo
+430,Fisica,Ricardo Vargas Gutierrez,2003-09-20,2025-10-30 03:35:34.843276,Sucursal,Puebla,Puebla,1,Estudiante,4800.45,f,Bajo,Activo
+431,Fisica,Monica Martinez Vazquez,1978-09-20,2026-02-03 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Comerciante,72078.77,f,Bajo,Activo
+432,Fisica,Gabriela Reyes Benitez,1985-09-20,2025-07-30 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,69661.65,f,Bajo,Activo
+433,Fisica,Arturo Perez Lopez,1970-09-20,2024-09-09 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,2787.64,f,Bajo,Activo
+434,Fisica,Daniela Flores Hernandez,2004-09-20,2026-03-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,18058.05,f,Bajo,Activo
+435,Fisica,Andrea Gomez Chavez,1987-09-20,2025-07-29 03:35:34.843276,Digital,Puebla,Puebla,1,Estudiante,3073.71,f,Bajo,Activo
+436,Fisica,Hector Aguilar Cruz,1966-09-20,2024-01-28 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,572.57,f,Bajo,Activo
+437,Fisica,Maria Perez Ramos,1985-09-20,2025-10-08 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,95117.52,f,Bajo,Activo
+438,Fisica,Veronica Ortiz Chavez,1957-09-20,2024-05-11 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,44835.89,f,Medio,Activo
+439,Fisica,Karla Reyes Gomez,1992-09-20,2023-10-01 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empresario,54546.19,f,Bajo,Activo
+440,Fisica,Fernanda Gonzalez Martinez,1981-09-20,2023-11-19 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,18072.73,f,Bajo,Activo
+441,Moral,Consultores Servicios Profesionales Lopez S.A. de C.V.,2020-09-20,2026-01-14 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servicios Profesionales,1778531.61,f,Bajo,Activo
+442,Fisica,Eduardo Martinez Chavez,1970-09-20,2025-08-03 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,12629.64,f,Medio,Activo
+443,Fisica,Fernanda Gonzalez Sanchez,2001-09-20,2025-07-21 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,216822.29,f,Bajo,Activo
+444,Fisica,Francisco Garcia Ruiz,1971-09-20,2026-07-13 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Estudiante,4140.33,f,Bajo,Activo
+445,Fisica,Luis Perez Morales,1969-09-20,2026-03-29 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Servidor Publico,38591.38,f,Bajo,Activo
+446,Fisica,Juan Ramirez Cruz,2003-09-20,2025-02-06 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Empresario,272522.59,f,Bajo,Activo
+447,Fisica,Luis Ortiz Aguilar,2000-09-20,2024-06-27 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,1493.58,f,Bajo,Activo
+448,Fisica,Fernanda Rivera Mendoza,1978-09-20,2024-04-25 03:35:34.843276,Digital,Puebla,Puebla,1,Jubilado,18674.74,f,Bajo,Activo
+449,Fisica,Roberto Ramos Cruz,2003-09-20,2024-03-05 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,22206.56,f,Alto,Activo
+450,Fisica,Fernanda Garcia Chavez,1979-09-20,2026-03-07 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empleado,14645.02,f,Bajo,Activo
+451,Fisica,Maria Martinez Jimenez,2002-09-20,2024-12-01 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Servidor Publico,19336.04,f,Bajo,Activo
+452,Fisica,Jose Diaz Ramirez,1993-09-20,2024-10-18 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,290979.75,f,Bajo,Activo
+453,Fisica,Daniela Castillo Contreras,1972-09-20,2024-10-20 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Profesionista Independiente,64802.91,f,Bajo,Activo
+454,Moral,Soluciones Tecnologia Hernandez S.A. de C.V.,2021-09-20,2026-02-18 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Tecnologia,550296.35,f,Bajo,Activo
+455,Fisica,Ricardo Rivera Benitez,1993-09-20,2024-05-14 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empresario,169651.19,f,Medio,Activo
+456,Moral,Corporativo Joyeria Vazquez S.A. de C.V.,2024-09-20,2026-05-23 03:35:34.843276,Digital,Leon,Guanajuato,1,Joyeria,2623394.58,f,Bajo,Activo
+457,Fisica,Carlos Diaz Diaz,1993-09-20,2024-06-16 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Comerciante,51340.24,f,Bajo,Activo
+458,Fisica,Jorge Contreras Hernandez,1980-09-20,2025-02-14 03:35:34.843276,Digital,Tijuana,Baja California,1,Estudiante,7313.22,f,Medio,Activo
+459,Fisica,Carlos Aguilar Gutierrez,1959-09-20,2024-12-23 03:35:34.843276,Sucursal,Puebla,Puebla,1,Estudiante,3802.87,f,Medio,Activo
+460,Fisica,Jorge Castillo Rivera,1959-09-20,2023-12-21 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Comerciante,28154.90,f,Bajo,Activo
+461,Moral,Servicios Joyeria Lopez S.A. de C.V.,2009-09-20,2026-05-19 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Joyeria,1100928.61,f,Bajo,Activo
+462,Fisica,Arturo Ortiz Gonzalez,1965-09-20,2026-04-17 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Empresario,139652.32,f,Bajo,Activo
+463,Fisica,Ana Cruz Morales,1992-09-20,2024-07-19 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servidor Publico,38428.72,f,Medio,Activo
+464,Fisica,Sofia Garcia Cruz,1974-09-20,2026-07-31 03:35:34.843276,Digital,Tijuana,Baja California,1,Profesionista Independiente,92849.17,f,Bajo,Activo
+465,Fisica,Veronica Gonzalez Rivera,2001-09-20,2025-01-24 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Servidor Publico,30499.85,f,Bajo,Activo
+466,Fisica,Miguel Jimenez Aguilar,2003-09-20,2024-10-24 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,26246.92,f,Bajo,Activo
+467,Moral,Corporativo Bienes Raices Ruiz S.A. de C.V.,2012-09-20,2025-08-01 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Bienes Raices,1048796.27,f,Bajo,Activo
+468,Moral,Logistica Bienes Raices Vazquez S.A. de C.V.,2018-09-20,2024-11-29 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Bienes Raices,741218.88,f,Bajo,Activo
+469,Fisica,Sergio Vazquez Gonzalez,1998-09-20,2024-03-12 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,55412.44,f,Bajo,Activo
+470,Fisica,Paola Chavez Vargas,1981-09-20,2024-11-29 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Estudiante,6716.56,f,Bajo,Activo
+471,Fisica,Sergio Hernandez Flores,1959-09-20,2025-06-06 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Empleado,32704.89,f,Bajo,Activo
+472,Moral,Distribuidora Restaurantero Ruiz S.A. de C.V.,2017-09-20,2024-08-15 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Restaurantero,710987.80,f,Medio,Activo
+473,Fisica,Patricia Torres Morales,1983-09-20,2025-12-04 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empleado,39651.45,f,Bajo,Activo
+474,Moral,Grupo Bienes Raices Gutierrez S.A. de C.V.,2013-09-20,2026-07-09 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Bienes Raices,557739.75,f,Bajo,Activo
+475,Moral,Constructora Importacion y Exportacion Lopez S.A. de C.V.,2020-09-20,2025-04-30 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Importacion y Exportacion,737089.06,f,Medio,Activo
+476,Moral,Soluciones Importacion y Exportacion Reyes S.A. de C.V.,2012-09-20,2023-10-22 03:35:34.843276,Sucursal,Merida,Yucatan,1,Importacion y Exportacion,973556.68,f,Bajo,Activo
+477,Fisica,Hector Cruz Gomez,1974-09-20,2024-01-11 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,1142.83,f,Bajo,Activo
+478,Fisica,Roberto Sanchez Benitez,1981-09-20,2025-08-15 03:35:34.843276,Sucursal,Puebla,Puebla,1,Jubilado,20581.20,f,Bajo,Activo
+479,Fisica,Miguel Sanchez Flores,1975-09-20,2025-07-24 03:35:34.843276,Sucursal,Tijuana,Baja California,1,Servidor Publico,26153.61,f,Bajo,Activo
+480,Fisica,Ricardo Vargas Lopez,1999-09-20,2026-02-21 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empleado,35159.16,f,Bajo,Activo
+481,Moral,Consultores Importacion y Exportacion Gomez S.A. de C.V.,2022-09-20,2024-02-25 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Importacion y Exportacion,1202921.55,f,Bajo,Activo
+482,Fisica,Alejandro Gonzalez Flores,1992-09-20,2026-07-26 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Profesionista Independiente,24732.44,f,Bajo,Activo
+483,Fisica,Miguel Morales Perez,1962-09-20,2026-07-26 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Empresario,183805.91,f,Bajo,Activo
+484,Fisica,Laura Castillo Aguilar,1959-09-20,2024-12-29 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Comerciante,52515.40,f,Alto,Activo
+485,Fisica,Monica Garcia Ramirez,1986-09-20,2024-08-09 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Jubilado,14500.48,f,Medio,Activo
+486,Fisica,Arturo Rivera Ramirez,1961-09-20,2026-07-11 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Empleado,21680.51,f,Medio,Activo
+487,Fisica,Ana Salazar Perez,1979-09-20,2025-11-15 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Comerciante,76594.08,f,Bajo,Activo
+488,Fisica,Miguel Sanchez Jimenez,1966-09-20,2025-05-02 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Servidor Publico,56725.59,f,Bajo,Activo
+489,Fisica,Juan Castillo Morales,1999-09-20,2025-01-20 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empleado,44487.69,f,Medio,Activo
+490,Fisica,Monica Salazar Mendoza,2004-09-20,2024-04-17 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Empresario,96957.86,f,Medio,Activo
+491,Fisica,Veronica Hernandez Benitez,1970-09-20,2026-08-16 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empleado,20966.56,f,Medio,Activo
+492,Fisica,Maria Garcia Vargas,1957-09-20,2026-02-22 03:35:34.843276,Ejecutivo,Leon,Guanajuato,1,Estudiante,7230.53,f,Medio,Activo
+493,Fisica,Raul Cruz Ruiz,1988-09-20,2024-01-27 03:35:34.843276,Digital,Tijuana,Baja California,1,Comerciante,49141.50,f,Bajo,Activo
+494,Fisica,Paola Ramirez Gonzalez,2002-09-20,2024-01-13 03:35:34.843276,Sucursal,Merida,Yucatan,1,Jubilado,10652.29,f,Alto,Activo
+495,Fisica,Andrea Torres Perez,1969-09-20,2026-06-05 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Jubilado,24821.99,f,Bajo,Activo
+496,Fisica,Juan Garcia Gomez,1980-09-20,2024-09-28 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,6192.22,f,Bajo,Activo
+497,Fisica,Juan Castillo Jimenez,1990-09-20,2025-08-25 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,15763.56,f,Bajo,Activo
+498,Fisica,Maria Martinez Ruiz,1985-09-20,2024-03-02 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,14344.62,f,Medio,Activo
+499,Fisica,Sofia Ortiz Rivera,1964-09-20,2025-06-10 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empleado,41319.11,f,Bajo,Activo
+500,Moral,Constructora Construccion Hernandez S.A. de C.V.,2021-09-20,2025-06-23 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Construccion,2974668.97,f,Bajo,Activo
+501,Fisica,Monica Perez Salazar,1992-09-20,2025-08-21 03:35:34.843276,Digital,Puebla,Puebla,1,Servidor Publico,24989.53,f,Bajo,Activo
+502,Fisica,Lucia Cruz Aguilar,2003-09-20,2023-10-30 03:35:34.843276,Digital,Leon,Guanajuato,1,Empresario,301795.58,f,Medio,Activo
+503,Fisica,Sergio Gutierrez Sanchez,1979-09-20,2025-09-09 03:35:34.843276,Digital,Queretaro,Queretaro,1,Servidor Publico,23370.74,f,Alto,Activo
+504,Fisica,Daniela Mendoza Gonzalez,1992-09-20,2024-04-15 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Jubilado,25188.79,f,Medio,Activo
+505,Fisica,Arturo Gomez Gomez,1959-09-20,2024-04-07 03:35:34.843276,Sucursal,Puebla,Puebla,1,Empleado,36247.71,f,Bajo,Activo
+506,Fisica,Jose Cruz Ramirez,1976-09-20,2025-07-11 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,12592.53,f,Medio,Activo
+507,Fisica,Miguel Vargas Ramos,1984-09-20,2025-06-23 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empleado,17866.08,f,Medio,Activo
+508,Fisica,Roberto Cruz Perez,2003-09-20,2024-05-26 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Estudiante,4137.54,f,Bajo,Activo
+509,Fisica,Alejandro Diaz Flores,1977-09-20,2024-01-25 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Servidor Publico,16640.89,f,Bajo,Activo
+510,Fisica,Sergio Gomez Chavez,1981-09-20,2026-07-03 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,11327.67,f,Bajo,Activo
+511,Fisica,Karla Benitez Jimenez,1967-09-20,2026-04-10 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,32102.44,f,Bajo,Activo
+512,Fisica,Raul Mendoza Cruz,1993-09-20,2025-07-22 03:35:34.843276,Digital,Leon,Guanajuato,1,Estudiante,1322.18,f,Bajo,Activo
+513,Fisica,Maria Morales Aguilar,1990-09-20,2025-03-11 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,40401.80,f,Bajo,Activo
+514,Fisica,Karla Jimenez Garcia,1998-09-20,2025-08-21 03:35:34.843276,Digital,Merida,Yucatan,1,Estudiante,3959.40,f,Medio,Activo
+515,Fisica,Sergio Vazquez Chavez,1978-09-20,2025-10-22 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Servidor Publico,31271.25,f,Medio,Activo
+516,Fisica,Fernanda Martinez Torres,2000-09-20,2024-05-06 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,26665.99,f,Bajo,Activo
+517,Fisica,Juan Perez Perez,1960-09-20,2026-06-02 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,21666.11,f,Medio,Activo
+518,Fisica,Eduardo Mendoza Gomez,1964-09-20,2024-01-21 03:35:34.843276,Digital,Puebla,Puebla,1,Empleado,37332.49,f,Medio,Activo
+519,Fisica,Maria Cruz Vazquez,1957-09-20,2024-08-07 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,17109.93,f,Medio,Activo
+520,Moral,Grupo Transporte y Logistica Ortiz S.A. de C.V.,2011-09-20,2025-06-22 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Transporte y Logistica,181473.69,f,Bajo,Activo
+521,Fisica,Daniela Gomez Gomez,1972-09-20,2025-10-29 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Servidor Publico,34887.58,f,Bajo,Activo
+522,Fisica,Gabriela Castillo Castillo,1976-09-20,2024-06-16 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empleado,35566.00,f,Bajo,Activo
+523,Fisica,Miguel Gutierrez Ramirez,2002-09-20,2024-04-18 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empresario,321344.88,f,Bajo,Activo
+524,Fisica,Laura Jimenez Perez,1959-09-20,2024-11-05 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Servidor Publico,40689.34,f,Bajo,Activo
+525,Fisica,Raul Ortiz Perez,1987-09-20,2024-08-09 03:35:34.843276,Ejecutivo,Queretaro,Queretaro,1,Jubilado,22151.50,f,Bajo,Activo
+526,Fisica,Andrea Contreras Gutierrez,2002-09-20,2023-10-09 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,693.16,f,Alto,Activo
+527,Fisica,Ricardo Gutierrez Benitez,1983-09-20,2026-05-20 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Profesionista Independiente,67067.96,f,Bajo,Activo
+528,Fisica,Gabriela Martinez Jimenez,1984-09-20,2025-04-22 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,37264.86,f,Medio,Activo
+529,Fisica,Patricia Gutierrez Ramos,1967-09-20,2026-05-01 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Servidor Publico,32521.39,f,Bajo,Activo
+530,Fisica,Roberto Martinez Gutierrez,1979-09-20,2023-12-13 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,58927.57,f,Bajo,Activo
+531,Fisica,Ricardo Mendoza Rivera,1984-09-20,2026-04-09 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Estudiante,6830.88,f,Bajo,Activo
+532,Fisica,Raul Flores Mendoza,1999-09-20,2024-04-11 03:35:34.843276,Ejecutivo,Puebla,Puebla,1,Comerciante,77776.71,f,Medio,Activo
+533,Fisica,Jorge Gonzalez Salazar,1980-09-20,2023-11-20 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Jubilado,26692.06,f,Alto,Activo
+534,Fisica,Andrea Gonzalez Lopez,1961-09-20,2025-10-19 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Servidor Publico,50192.67,f,Medio,Activo
+535,Fisica,Juan Lopez Gutierrez,2002-09-20,2025-02-09 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empresario,209090.50,f,Bajo,Activo
+536,Moral,Logistica Restaurantero Flores S.A. de C.V.,2008-09-20,2024-03-26 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Restaurantero,578243.29,f,Bajo,Activo
+537,Fisica,Sofia Salazar Ortiz,1983-09-20,2026-04-14 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Empleado,13741.54,f,Bajo,Activo
+538,Fisica,Monica Reyes Chavez,1995-09-20,2024-11-17 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Empresario,175927.47,f,Bajo,Activo
+539,Fisica,Miguel Benitez Castillo,2003-09-20,2026-08-30 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,44357.71,f,Bajo,Activo
+540,Fisica,Veronica Morales Cruz,1968-09-20,2025-03-23 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,5914.84,f,Medio,Activo
+541,Fisica,Monica Flores Ortiz,1967-09-20,2025-01-17 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Jubilado,9125.26,f,Bajo,Activo
+542,Moral,Comercializadora Restaurantero Reyes S.A. de C.V.,2018-09-20,2023-11-03 03:35:34.843276,Sucursal,Puebla,Puebla,1,Restaurantero,2730115.97,f,Medio,Activo
+543,Moral,Logistica Transporte y Logistica Salazar S.A. de C.V.,2009-09-20,2025-02-21 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Transporte y Logistica,1030771.41,f,Medio,Activo
+544,Fisica,Sergio Castillo Lopez,1961-09-20,2025-04-10 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,4367.85,f,Bajo,Activo
+545,Fisica,Lucia Morales Mendoza,2003-09-20,2024-12-28 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empleado,36692.22,f,Medio,Activo
+546,Fisica,Daniela Gonzalez Mendoza,1987-09-20,2026-01-11 03:35:34.843276,Digital,Leon,Guanajuato,1,Empresario,107991.96,f,Bajo,Activo
+547,Fisica,Francisco Martinez Rivera,2002-09-20,2024-10-21 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Comerciante,38937.31,f,Medio,Activo
+548,Fisica,Carlos Benitez Contreras,1996-09-20,2026-05-09 03:35:34.843276,Sucursal,Merida,Yucatan,1,Servidor Publico,50259.75,f,Bajo,Activo
+549,Fisica,Miguel Lopez Hernandez,2003-09-20,2025-08-27 03:35:34.843276,Ejecutivo,Queretaro,Queretaro,1,Servidor Publico,34087.90,f,Bajo,Activo
+550,Fisica,Gabriela Ramirez Jimenez,1963-09-20,2026-02-28 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,21839.26,f,Medio,Activo
+551,Fisica,Hector Mendoza Benitez,1973-09-20,2024-04-11 03:35:34.843276,Digital,Puebla,Puebla,1,Estudiante,6493.12,f,Medio,Activo
+552,Moral,Distribuidora Importacion y Exportacion Perez S.A. de C.V.,2023-09-20,2025-03-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Importacion y Exportacion,527849.72,f,Bajo,Activo
+553,Fisica,Jorge Benitez Chavez,1974-09-20,2026-02-10 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,23651.70,f,Bajo,Activo
+554,Fisica,Andrea Castillo Lopez,1987-09-20,2024-10-22 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Profesionista Independiente,60865.74,f,Medio,Activo
+555,Fisica,Lucia Contreras Rivera,1960-09-20,2025-08-16 03:35:34.843276,Sucursal,Puebla,Puebla,1,Empresario,254463.28,f,Medio,Activo
+556,Fisica,Ana Mendoza Ramos,1970-09-20,2023-12-09 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Comerciante,42056.01,f,Bajo,Activo
+557,Fisica,Carlos Flores Castillo,2004-09-20,2025-10-27 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Jubilado,14581.17,f,Bajo,Activo
+558,Fisica,Arturo Sanchez Jimenez,1992-09-20,2026-03-23 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empresario,72121.87,f,Bajo,Activo
+559,Fisica,Miguel Flores Flores,1977-09-20,2026-01-19 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Estudiante,6243.36,f,Bajo,Activo
+560,Moral,Corporativo Restaurantero Sanchez S.A. de C.V.,2012-09-20,2026-04-26 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Restaurantero,285815.67,f,Medio,Activo
+561,Fisica,Daniela Mendoza Ortiz,1998-09-20,2024-09-01 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Empleado,34319.64,f,Bajo,Activo
+562,Fisica,Karla Rivera Gonzalez,2002-09-20,2026-01-14 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,70299.90,f,Medio,Activo
+563,Fisica,Alejandro Morales Jimenez,1977-09-20,2024-09-11 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,11891.95,f,Bajo,Activo
+564,Fisica,Claudia Contreras Gomez,1973-09-20,2024-10-27 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Empleado,18588.40,f,Alto,Activo
+565,Fisica,Paola Chavez Reyes,2000-09-20,2024-10-18 03:35:34.843276,Digital,Puebla,Puebla,1,Profesionista Independiente,117010.60,f,Bajo,Activo
+566,Fisica,Hector Torres Castillo,1981-09-20,2025-04-22 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,21709.36,f,Alto,Activo
+567,Moral,Distribuidora Comercio al por menor Ramirez S.A. de C.V.,2010-09-20,2025-05-20 03:35:34.843276,Digital,Leon,Guanajuato,1,Comercio al por menor,875835.62,f,Bajo,Activo
+568,Fisica,Paola Salazar Mendoza,1971-09-20,2025-06-02 03:35:34.843276,Digital,Merida,Yucatan,1,Estudiante,4728.24,f,Bajo,Activo
+569,Fisica,Claudia Gomez Torres,1959-09-20,2025-08-11 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,19827.31,f,Medio,Activo
+570,Fisica,Lucia Hernandez Aguilar,1979-09-20,2024-05-04 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Comerciante,45320.83,f,Bajo,Activo
+571,Fisica,Francisco Benitez Morales,1995-09-20,2024-04-14 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Comerciante,75756.94,f,Bajo,Activo
+572,Fisica,Claudia Martinez Flores,1959-09-20,2025-04-03 03:35:34.843276,Sucursal,Merida,Yucatan,1,Servidor Publico,30779.17,f,Bajo,Activo
+573,Fisica,Daniela Sanchez Vazquez,1999-09-20,2026-03-13 03:35:34.843276,Ejecutivo,Culiacan,Sinaloa,1,Empleado,25772.09,f,Bajo,Activo
+574,Fisica,Jorge Gonzalez Flores,1984-09-20,2025-05-19 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Servidor Publico,43461.31,f,Medio,Activo
+575,Fisica,Sergio Torres Rivera,1972-09-20,2026-04-07 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,5528.98,f,Bajo,Activo
+576,Fisica,Hector Martinez Ramirez,1984-09-20,2024-06-06 03:35:34.843276,Digital,Queretaro,Queretaro,1,Servidor Publico,14816.00,f,Bajo,Activo
+577,Fisica,Patricia Aguilar Hernandez,1979-09-20,2025-01-19 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,86688.62,f,Bajo,Activo
+578,Fisica,Jorge Vargas Rivera,1969-09-20,2024-07-31 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,61523.79,f,Bajo,Activo
+579,Fisica,Hector Garcia Mendoza,1961-09-20,2026-05-18 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Jubilado,14369.65,f,Bajo,Activo
+580,Fisica,Paola Torres Mendoza,1961-09-20,2025-02-05 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Servidor Publico,40101.17,f,Medio,Activo
+581,Fisica,Ricardo Diaz Lopez,1965-09-20,2023-11-03 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empleado,32020.51,f,Medio,Activo
+582,Fisica,Ricardo Gutierrez Diaz,1991-09-20,2026-01-09 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,19112.16,f,Bajo,Activo
+583,Moral,Industrias Transporte y Logistica Gomez S.A. de C.V.,2009-09-20,2025-04-14 03:35:34.843276,Digital,Tijuana,Baja California,1,Transporte y Logistica,422528.64,f,Bajo,Activo
+584,Fisica,Miguel Gonzalez Contreras,1988-09-20,2025-01-28 03:35:34.843276,Ejecutivo,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,102989.22,f,Medio,Activo
+585,Fisica,Lucia Mendoza Reyes,1971-09-20,2025-11-15 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Jubilado,26632.32,f,Bajo,Activo
+586,Moral,Constructora Comercio al por menor Ortiz S.A. de C.V.,2022-09-20,2026-01-06 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comercio al por menor,405079.49,f,Bajo,Activo
+587,Fisica,Raul Ramirez Garcia,1958-09-20,2025-08-11 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Estudiante,7367.64,f,Medio,Activo
+588,Fisica,Eduardo Castillo Castillo,1965-09-20,2026-03-05 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,40478.12,f,Bajo,Activo
+589,Fisica,Sergio Salazar Gutierrez,1973-09-20,2024-05-10 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Empresario,44579.51,f,Medio,Activo
+590,Fisica,Claudia Sanchez Martinez,1985-09-20,2025-01-29 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,52453.65,f,Bajo,Activo
+591,Fisica,Paola Ramos Vazquez,1998-09-20,2026-09-06 03:35:34.843276,Digital,Tijuana,Baja California,1,Empresario,42876.28,f,Bajo,Activo
+592,Fisica,Veronica Gutierrez Rivera,1997-09-20,2024-10-18 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,103925.27,f,Medio,Activo
+593,Fisica,Fernanda Cruz Ramirez,1966-09-20,2025-06-20 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Servidor Publico,16843.39,f,Bajo,Activo
+594,Fisica,Hector Garcia Ruiz,1971-09-20,2025-09-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,49937.29,f,Bajo,Activo
+595,Fisica,Lucia Hernandez Sanchez,1961-09-20,2024-03-27 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Comerciante,23362.04,f,Medio,Activo
+596,Fisica,Jorge Contreras Ramirez,1981-09-20,2023-10-19 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,74527.44,f,Bajo,Activo
+597,Fisica,Sofia Aguilar Martinez,1985-09-20,2024-04-19 03:35:34.843276,Digital,Queretaro,Queretaro,1,Profesionista Independiente,46020.16,f,Bajo,Activo
+598,Fisica,Jorge Morales Benitez,1996-09-20,2024-10-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,28527.83,f,Alto,Activo
+599,Fisica,Gabriela Morales Torres,1971-09-20,2024-09-09 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Comerciante,12840.53,f,Bajo,Activo
+600,Fisica,Claudia Gutierrez Chavez,1962-09-20,2024-05-29 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Profesionista Independiente,64659.03,f,Bajo,Activo
+601,Fisica,Francisco Cruz Jimenez,1970-09-20,2025-04-06 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Estudiante,4871.32,f,Bajo,Activo
+602,Fisica,Ana Gomez Torres,1990-09-20,2025-03-13 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Empleado,28184.60,f,Bajo,Activo
+603,Fisica,Fernanda Mendoza Morales,1962-09-20,2024-01-22 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empleado,39051.81,f,Bajo,Activo
+604,Fisica,Ana Gutierrez Lopez,1991-09-20,2025-12-08 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,45710.25,f,Bajo,Activo
+605,Fisica,Karla Cruz Perez,1974-09-20,2025-01-19 03:35:34.843276,Sucursal,Merida,Yucatan,1,Profesionista Independiente,100702.39,f,Bajo,Activo
+606,Fisica,Karla Mendoza Contreras,2002-09-20,2026-04-21 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,5613.49,f,Bajo,Activo
+607,Fisica,Ricardo Benitez Mendoza,1991-09-20,2024-01-06 03:35:34.843276,Digital,Puebla,Puebla,1,Estudiante,3695.15,f,Bajo,Activo
+608,Fisica,Maria Diaz Lopez,1963-09-20,2024-04-03 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Empresario,320467.03,f,Bajo,Activo
+609,Fisica,Gabriela Vazquez Aguilar,1979-09-20,2024-05-15 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,308040.17,f,Medio,Activo
+610,Fisica,Karla Contreras Torres,1963-09-20,2025-11-29 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Jubilado,11917.99,f,Medio,Activo
+611,Fisica,Ana Gonzalez Garcia,1977-09-20,2026-02-03 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Empleado,39508.53,f,Medio,Activo
+612,Fisica,Lucia Gutierrez Ruiz,1994-09-20,2024-07-13 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Empleado,31255.78,f,Bajo,Activo
+613,Fisica,Patricia Mendoza Chavez,1957-09-20,2025-12-31 03:35:34.843276,Sucursal,Merida,Yucatan,1,Empresario,100082.56,f,Bajo,Activo
+614,Fisica,Luis Hernandez Vargas,2003-09-20,2024-03-04 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,30630.28,f,Bajo,Activo
+615,Fisica,Karla Martinez Reyes,1961-09-20,2025-04-04 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Empresario,267932.24,f,Bajo,Activo
+616,Fisica,Daniela Chavez Morales,2000-09-20,2024-02-16 03:35:34.843276,Sucursal,Puebla,Puebla,1,Jubilado,27769.30,f,Medio,Activo
+617,Fisica,Lucia Gonzalez Salazar,1994-09-20,2024-12-22 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empleado,13823.62,f,Bajo,Activo
+618,Fisica,Fernanda Torres Ramos,1992-09-20,2026-09-11 03:35:34.843276,Sucursal,Chihuahua,Chihuahua,1,Jubilado,9165.22,f,Bajo,Activo
+619,Fisica,Maria Benitez Morales,1986-09-20,2024-01-27 03:35:34.843276,Digital,Queretaro,Queretaro,1,Jubilado,26753.41,f,Bajo,Activo
+620,Fisica,Laura Benitez Cruz,1996-09-20,2026-05-24 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Empleado,17798.64,f,Bajo,Activo
+621,Fisica,Patricia Gutierrez Mendoza,1997-09-20,2026-08-16 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Jubilado,29261.39,f,Bajo,Activo
+622,Moral,Consultores Construccion Ruiz S.A. de C.V.,2017-09-20,2024-10-22 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Construccion,102601.76,f,Medio,Activo
+623,Fisica,Fernanda Vargas Jimenez,1968-09-20,2025-11-10 03:35:34.843276,Sucursal,Merida,Yucatan,1,Comerciante,34721.57,f,Bajo,Activo
+624,Fisica,Fernanda Reyes Hernandez,1958-09-20,2024-09-08 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empleado,19181.05,f,Bajo,Activo
+625,Moral,Industrias Restaurantero Reyes S.A. de C.V.,2011-09-20,2025-09-06 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Restaurantero,443096.24,f,Medio,Activo
+626,Fisica,Daniela Aguilar Hernandez,1999-09-20,2024-05-27 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Estudiante,5207.50,f,Medio,Activo
+627,Fisica,Jose Reyes Diaz,1998-09-20,2024-08-26 03:35:34.843276,Sucursal,Tijuana,Baja California,1,Jubilado,22490.37,f,Bajo,Activo
+628,Fisica,Sofia Ruiz Flores,1961-09-20,2024-07-10 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Estudiante,5792.46,f,Bajo,Activo
+629,Fisica,Paola Vazquez Lopez,1972-09-20,2026-03-10 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,19034.22,f,Medio,Activo
+630,Moral,Comercializadora Transporte y Logistica Sanchez S.A. de C.V.,2014-09-20,2026-03-23 03:35:34.843276,Digital,Puebla,Puebla,1,Transporte y Logistica,355899.21,f,Medio,Activo
+631,Fisica,Jorge Lopez Perez,1960-09-20,2026-01-26 03:35:34.843276,Digital,Puebla,Puebla,1,Servidor Publico,57684.88,f,Bajo,Activo
+632,Fisica,Arturo Ortiz Vargas,1982-09-20,2023-11-01 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Empleado,34807.86,f,Bajo,Activo
+633,Fisica,Patricia Salazar Sanchez,1988-09-20,2025-01-03 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,115685.67,f,Medio,Activo
+634,Fisica,Lucia Vazquez Ortiz,2001-09-20,2024-03-14 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Empresario,328071.45,f,Medio,Activo
+635,Fisica,Francisco Vargas Vazquez,1989-09-20,2026-02-07 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,33276.68,f,Bajo,Activo
+636,Fisica,Jorge Benitez Benitez,1981-09-20,2025-11-27 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,48163.77,f,Bajo,Activo
+637,Fisica,Jorge Rivera Gutierrez,1970-09-20,2024-10-12 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Jubilado,18770.45,f,Bajo,Activo
+638,Fisica,Luis Ramos Flores,1995-09-20,2024-08-30 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Profesionista Independiente,82958.29,f,Bajo,Activo
+639,Moral,Logistica Transporte y Logistica Castillo S.A. de C.V.,2024-09-20,2023-11-19 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Transporte y Logistica,671935.45,f,Bajo,Activo
+640,Fisica,Lucia Morales Garcia,1995-09-20,2026-04-23 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,15640.51,f,Medio,Activo
+641,Fisica,Arturo Aguilar Gutierrez,1959-09-20,2024-03-15 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empleado,36310.02,f,Bajo,Activo
+642,Moral,Servicios Construccion Ramirez S.A. de C.V.,2017-09-20,2025-09-06 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Construccion,2759549.08,f,Bajo,Activo
+643,Moral,Distribuidora Transporte y Logistica Rivera S.A. de C.V.,2015-09-20,2026-07-12 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Transporte y Logistica,1226548.60,f,Bajo,Activo
+644,Fisica,Claudia Mendoza Benitez,1996-09-20,2025-05-20 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Empresario,203982.49,f,Medio,Activo
+645,Fisica,Paola Vazquez Garcia,1975-09-20,2023-12-14 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Comerciante,54188.27,f,Bajo,Activo
+646,Fisica,Carlos Gonzalez Chavez,2000-09-20,2023-10-23 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Estudiante,899.08,f,Medio,Activo
+647,Fisica,Jorge Gonzalez Torres,1964-09-20,2026-08-16 03:35:34.843276,Ejecutivo,Aguascalientes,Aguascalientes,1,Empleado,9100.63,f,Medio,Activo
+648,Fisica,Karla Contreras Gonzalez,1981-09-20,2023-10-01 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,20086.85,f,Bajo,Activo
+649,Fisica,Patricia Sanchez Chavez,1970-09-20,2023-12-15 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,39971.79,f,Medio,Activo
+650,Fisica,Ana Aguilar Ramos,1964-09-20,2025-04-02 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,3227.74,f,Medio,Activo
+651,Fisica,Francisco Castillo Flores,1990-09-20,2024-06-07 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Estudiante,6768.15,f,Medio,Activo
+652,Fisica,Ricardo Mendoza Gomez,1999-09-20,2025-02-01 03:35:34.843276,Digital,Queretaro,Queretaro,1,Empleado,11788.82,f,Bajo,Activo
+653,Moral,Servicios Joyeria Aguilar S.A. de C.V.,2021-09-20,2024-05-13 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Joyeria,235976.18,f,Bajo,Activo
+654,Fisica,Hector Mendoza Ramirez,1999-09-20,2023-12-12 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Estudiante,3738.30,f,Bajo,Activo
+655,Fisica,Juan Morales Cruz,1965-09-20,2026-08-08 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Empresario,293519.02,f,Bajo,Activo
+656,Fisica,Raul Contreras Jimenez,1960-09-20,2024-07-03 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,29445.57,f,Bajo,Activo
+657,Fisica,Veronica Perez Martinez,1986-09-20,2024-06-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,12540.05,f,Bajo,Activo
+658,Fisica,Ricardo Gutierrez Ramirez,1965-09-20,2025-10-31 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Empleado,23246.16,f,Bajo,Activo
+659,Fisica,Ana Torres Castillo,1975-09-20,2025-06-17 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,119348.60,f,Bajo,Activo
+660,Fisica,Laura Martinez Hernandez,1997-09-20,2023-12-20 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Servidor Publico,39754.93,f,Medio,Activo
+661,Moral,Logistica Transporte y Logistica Hernandez S.A. de C.V.,2023-09-20,2026-04-03 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Transporte y Logistica,3481370.45,f,Bajo,Activo
+662,Fisica,Lucia Gonzalez Gonzalez,1993-09-20,2025-04-09 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,35415.86,f,Bajo,Activo
+663,Fisica,Andrea Contreras Ramos,1957-09-20,2023-11-24 03:35:34.843276,Digital,Tijuana,Baja California,1,Estudiante,2060.92,f,Medio,Activo
+664,Fisica,Gabriela Ramirez Hernandez,1962-09-20,2025-11-30 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,17248.42,f,Bajo,Activo
+665,Fisica,Roberto Jimenez Cruz,1983-09-20,2024-03-18 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,35647.09,f,Bajo,Activo
+666,Fisica,Arturo Cruz Torres,1986-09-20,2026-01-11 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empresario,94345.55,f,Medio,Activo
+667,Fisica,Alejandro Aguilar Perez,1980-09-20,2026-05-26 03:35:34.843276,Sucursal,Puebla,Puebla,1,Jubilado,21938.72,f,Medio,Activo
+668,Fisica,Monica Ortiz Mendoza,1966-09-20,2024-08-03 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Empleado,41883.27,f,Bajo,Activo
+669,Moral,Industrias Servicios Profesionales Diaz S.A. de C.V.,2025-09-20,2026-01-14 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Servicios Profesionales,952586.67,f,Bajo,Activo
+670,Moral,Distribuidora Transporte y Logistica Rivera S.A. de C.V.,2007-09-20,2026-05-09 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Transporte y Logistica,510985.28,f,Medio,Activo
+671,Fisica,Paola Morales Castillo,1983-09-20,2025-10-23 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,76786.16,f,Bajo,Activo
+672,Fisica,Ricardo Benitez Sanchez,1961-09-20,2025-01-19 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,50779.62,t,Bajo,Activo
+673,Fisica,Francisco Perez Torres,1971-09-20,2026-06-21 03:35:34.843276,Sucursal,Tijuana,Baja California,1,Servidor Publico,28809.29,f,Bajo,Activo
+674,Fisica,Francisco Rivera Jimenez,1970-09-20,2024-12-06 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Jubilado,27583.20,f,Bajo,Activo
+675,Fisica,Veronica Contreras Torres,1997-09-20,2025-12-03 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,25819.77,f,Bajo,Activo
+676,Fisica,Monica Salazar Diaz,1981-09-20,2023-12-28 03:35:34.843276,Digital,Tijuana,Baja California,1,Servidor Publico,50384.17,f,Bajo,Activo
+677,Fisica,Arturo Gutierrez Ramirez,1989-09-20,2025-09-07 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,48391.79,f,Bajo,Activo
+678,Fisica,Miguel Cruz Aguilar,1985-09-20,2024-10-05 03:35:34.843276,Digital,Tijuana,Baja California,1,Comerciante,12875.24,f,Bajo,Activo
+679,Fisica,Monica Ramos Lopez,1975-09-20,2025-02-04 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,16162.95,f,Medio,Activo
+680,Fisica,Karla Salazar Benitez,1992-09-20,2024-04-12 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Jubilado,27234.46,f,Bajo,Activo
+681,Fisica,Karla Jimenez Vazquez,1991-09-20,2025-10-27 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Profesionista Independiente,51415.01,f,Bajo,Activo
+682,Fisica,Laura Benitez Cruz,1982-09-20,2024-09-17 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,64804.03,f,Bajo,Activo
+683,Fisica,Paola Garcia Jimenez,2002-09-20,2025-10-06 03:35:34.843276,Digital,Queretaro,Queretaro,1,Servidor Publico,12639.34,f,Medio,Activo
+684,Fisica,Claudia Flores Benitez,1987-09-20,2024-07-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,29568.55,f,Medio,Activo
+685,Fisica,Claudia Ortiz Morales,1989-09-20,2026-06-26 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Jubilado,15143.86,f,Medio,Activo
+686,Fisica,Monica Vazquez Castillo,1983-09-20,2024-02-25 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Servidor Publico,19403.15,f,Bajo,Activo
+687,Fisica,Jorge Mendoza Castillo,1987-09-20,2025-07-24 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Comerciante,35441.94,f,Medio,Activo
+688,Moral,Grupo Bienes Raices Contreras S.A. de C.V.,2020-09-20,2023-12-13 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Bienes Raices,3683502.78,f,Bajo,Activo
+689,Fisica,Sergio Reyes Diaz,1997-09-20,2025-12-07 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Servidor Publico,21274.07,t,Bajo,Activo
+690,Fisica,Raul Chavez Vazquez,1986-09-20,2024-06-25 03:35:34.843276,Sucursal,Aguascalientes,Aguascalientes,1,Servidor Publico,53800.30,f,Bajo,Activo
+691,Fisica,Maria Vargas Ramos,1958-09-20,2025-08-03 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,26312.40,f,Alto,Activo
+692,Moral,Constructora Joyeria Rivera S.A. de C.V.,2020-09-20,2025-06-30 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Joyeria,1123081.59,f,Bajo,Activo
+693,Fisica,Daniela Gonzalez Ramirez,1974-09-20,2024-09-23 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Comerciante,27016.77,f,Medio,Activo
+694,Fisica,Sergio Rivera Aguilar,1971-09-20,2025-05-01 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,54922.15,f,Bajo,Activo
+695,Fisica,Jorge Ruiz Sanchez,1968-09-20,2025-04-02 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Jubilado,13694.35,f,Bajo,Activo
+696,Fisica,Veronica Diaz Vazquez,1957-09-20,2025-03-30 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,51650.29,f,Bajo,Activo
+697,Fisica,Maria Ruiz Sanchez,1984-09-20,2025-08-10 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,23245.06,f,Bajo,Activo
+698,Fisica,Raul Benitez Vazquez,1969-09-20,2025-12-05 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,10909.76,f,Medio,Activo
+699,Fisica,Monica Diaz Ramirez,1986-09-20,2025-10-23 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,41836.92,f,Medio,Activo
+700,Fisica,Claudia Gutierrez Sanchez,1997-09-20,2026-08-09 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Estudiante,7366.77,f,Bajo,Activo
+701,Fisica,Alejandro Torres Morales,1960-09-20,2025-09-18 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empresario,175538.46,f,Medio,Activo
+702,Moral,Industrias Joyeria Castillo S.A. de C.V.,2007-09-20,2025-01-05 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Joyeria,2171927.70,f,Bajo,Activo
+703,Fisica,Paola Vargas Garcia,1963-09-20,2026-08-26 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Profesionista Independiente,28001.81,f,Bajo,Activo
+704,Moral,Servicios Bienes Raices Contreras S.A. de C.V.,2020-09-20,2025-05-17 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Bienes Raices,2660190.20,f,Bajo,Activo
+705,Fisica,Sergio Gutierrez Gutierrez,1964-09-20,2026-05-09 03:35:34.843276,Digital,Leon,Guanajuato,1,Profesionista Independiente,71808.17,f,Bajo,Activo
+706,Fisica,Francisco Gomez Aguilar,1963-09-20,2025-04-13 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,141975.92,f,Medio,Activo
+707,Fisica,Sofia Torres Contreras,1989-09-20,2025-11-20 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,66158.23,f,Bajo,Activo
+708,Fisica,Raul Gomez Sanchez,1978-09-20,2023-12-14 03:35:34.843276,Digital,Puebla,Puebla,1,Servidor Publico,32450.27,f,Medio,Activo
+709,Fisica,Lucia Cruz Vargas,1991-09-20,2025-10-27 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empresario,192690.65,f,Bajo,Activo
+710,Fisica,Sofia Hernandez Cruz,1988-09-20,2024-11-04 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,16989.10,f,Bajo,Activo
+711,Fisica,Maria Flores Ramirez,1974-09-20,2025-06-19 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,215423.08,f,Medio,Activo
+712,Fisica,Monica Mendoza Torres,1988-09-20,2025-07-29 03:35:34.843276,Ejecutivo,Toluca,Estado de Mexico,1,Empleado,13125.83,f,Bajo,Activo
+713,Moral,Servicios Restaurantero Lopez S.A. de C.V.,2010-09-20,2023-11-28 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Restaurantero,2582232.45,f,Bajo,Activo
+714,Moral,Soluciones Comercio al por menor Mendoza S.A. de C.V.,2024-09-20,2025-08-08 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Comercio al por menor,90656.00,f,Bajo,Activo
+715,Fisica,Maria Gomez Gutierrez,1966-09-20,2025-03-07 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Jubilado,17429.64,f,Medio,Activo
+716,Fisica,Maria Chavez Contreras,1993-09-20,2024-12-28 03:35:34.843276,Sucursal,Puebla,Puebla,1,Jubilado,29191.70,f,Bajo,Activo
+717,Fisica,Laura Hernandez Hernandez,1989-09-20,2025-01-20 03:35:34.843276,Sucursal,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,32118.14,f,Medio,Activo
+718,Fisica,Sergio Morales Contreras,1961-09-20,2025-01-20 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Estudiante,5412.70,f,Bajo,Activo
+719,Fisica,Daniela Vazquez Hernandez,1980-09-20,2025-07-25 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Estudiante,1236.87,f,Medio,Activo
+720,Fisica,Karla Castillo Perez,1975-09-20,2024-02-25 03:35:34.843276,Digital,Tijuana,Baja California,1,Comerciante,60618.51,f,Bajo,Activo
+721,Fisica,Francisco Salazar Vargas,1975-09-20,2026-07-14 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Empleado,36404.77,f,Medio,Activo
+722,Moral,Constructora Casa de Cambio Torres S.A. de C.V.,2016-09-20,2025-10-05 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Casa de Cambio,603143.89,f,Medio,Activo
+723,Fisica,Hector Cruz Mendoza,1959-09-20,2024-07-11 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,261619.54,f,Bajo,Activo
+724,Fisica,Andrea Perez Jimenez,1990-09-20,2024-04-10 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,6021.55,f,Alto,Activo
+725,Fisica,Jorge Garcia Chavez,2003-09-20,2026-03-04 03:35:34.843276,Sucursal,Guadalajara,Jalisco,1,Profesionista Independiente,75366.23,f,Medio,Activo
+726,Fisica,Gabriela Salazar Vargas,1970-09-20,2024-08-29 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,11690.24,f,Medio,Activo
+727,Fisica,Hector Rivera Mendoza,1965-09-20,2024-03-30 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Servidor Publico,43044.69,f,Bajo,Activo
+728,Fisica,Alejandro Gomez Mendoza,1993-09-20,2024-01-19 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Empresario,267556.69,f,Bajo,Activo
+729,Fisica,Eduardo Vargas Jimenez,1974-09-20,2025-09-29 03:35:34.843276,Digital,Tijuana,Baja California,1,Jubilado,9967.97,f,Medio,Activo
+730,Fisica,Luis Hernandez Gutierrez,1979-09-20,2026-07-22 03:35:34.843276,Ejecutivo,Guadalajara,Jalisco,1,Profesionista Independiente,117622.30,f,Medio,Activo
+731,Fisica,Patricia Chavez Vazquez,1994-09-20,2026-09-13 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,34089.62,f,Medio,Activo
+732,Fisica,Ana Morales Benitez,1978-09-20,2025-12-29 03:35:34.843276,Ejecutivo,Merida,Yucatan,1,Comerciante,24900.64,f,Bajo,Activo
+733,Fisica,Patricia Contreras Contreras,1986-09-20,2026-02-09 03:35:34.843276,Sucursal,Culiacan,Sinaloa,1,Comerciante,39631.06,f,Bajo,Activo
+734,Moral,Servicios Restaurantero Mendoza S.A. de C.V.,2014-09-20,2025-11-23 03:35:34.843276,Sucursal,Puebla,Puebla,1,Restaurantero,381052.24,f,Medio,Activo
+735,Fisica,Jose Contreras Salazar,1994-09-20,2024-09-20 03:35:34.843276,Sucursal,Leon,Guanajuato,1,Empresario,329351.59,f,Bajo,Activo
+736,Fisica,Sofia Morales Garcia,1958-09-20,2026-01-08 03:35:34.843276,Digital,Tijuana,Baja California,1,Empleado,21633.59,f,Bajo,Activo
+737,Fisica,Raul Hernandez Chavez,1971-09-20,2025-12-02 03:35:34.843276,Digital,Merida,Yucatan,1,Empresario,92320.54,f,Bajo,Activo
+738,Fisica,Jose Martinez Gonzalez,1985-09-20,2024-05-03 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Jubilado,11526.11,f,Bajo,Activo
+739,Fisica,Ana Contreras Gonzalez,1975-09-20,2024-05-02 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Empresario,163580.91,f,Bajo,Activo
+740,Fisica,Patricia Contreras Jimenez,1982-09-20,2026-07-04 03:35:34.843276,Digital,Puebla,Puebla,1,Comerciante,28924.40,f,Alto,Activo
+741,Moral,Comercializadora Tecnologia Garcia S.A. de C.V.,2007-09-20,2025-01-10 03:35:34.843276,Digital,Puebla,Puebla,1,Tecnologia,1550951.08,f,Bajo,Activo
+742,Fisica,Ricardo Salazar Hernandez,1964-09-20,2024-08-25 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Empleado,22652.22,f,Medio,Activo
+743,Fisica,Patricia Reyes Diaz,1972-09-20,2024-10-16 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Comerciante,37470.96,f,Bajo,Activo
+744,Fisica,Alejandro Rivera Gutierrez,1977-09-20,2025-07-06 03:35:34.843276,Ejecutivo,Tijuana,Baja California,1,Profesionista Independiente,114087.34,f,Bajo,Activo
+745,Fisica,Fernanda Morales Hernandez,1998-09-20,2026-08-20 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Estudiante,6579.09,f,Bajo,Activo
+746,Fisica,Hector Jimenez Ortiz,1986-09-20,2023-11-05 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Servidor Publico,52165.37,f,Bajo,Activo
+747,Fisica,Ana Mendoza Torres,2004-09-20,2026-05-12 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,241380.63,f,Bajo,Activo
+748,Fisica,Daniela Flores Mendoza,1970-09-20,2024-04-13 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,226752.35,f,Bajo,Activo
+749,Fisica,Roberto Gutierrez Chavez,1966-09-20,2025-08-07 03:35:34.843276,Ejecutivo,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,73411.45,f,Medio,Activo
+750,Fisica,Hector Jimenez Ramirez,1973-09-20,2024-07-13 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Estudiante,3808.40,f,Bajo,Activo
+751,Fisica,Ricardo Vazquez Ramos,1984-09-20,2026-08-15 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Profesionista Independiente,28493.28,f,Bajo,Activo
+752,Fisica,Raul Contreras Aguilar,1986-09-20,2025-08-03 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Empresario,149857.05,f,Bajo,Activo
+753,Fisica,Francisco Mendoza Jimenez,1985-09-20,2024-07-18 03:35:34.843276,Ejecutivo,Ecatepec de Morelos,Estado de Mexico,1,Jubilado,20721.08,f,Bajo,Activo
+754,Fisica,Paola Ruiz Mendoza,1979-09-20,2026-01-10 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,11174.58,f,Bajo,Activo
+755,Fisica,Eduardo Garcia Mendoza,1972-09-20,2025-08-19 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Servidor Publico,55084.15,f,Bajo,Activo
+756,Fisica,Patricia Contreras Garcia,1986-09-20,2024-10-24 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,13084.90,f,Bajo,Activo
+757,Moral,Distribuidora Importacion y Exportacion Torres S.A. de C.V.,2015-09-20,2026-05-20 03:35:34.843276,Sucursal,Ciudad de Mexico,Ciudad de Mexico,1,Importacion y Exportacion,1249030.07,f,Bajo,Activo
+758,Fisica,Raul Benitez Mendoza,1999-09-20,2025-02-19 03:35:34.843276,Sucursal,Puebla,Puebla,1,Empleado,21168.65,f,Bajo,Activo
+759,Fisica,Jorge Flores Gutierrez,1966-09-20,2025-07-17 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Servidor Publico,49600.39,f,Alto,Activo
+760,Fisica,Carlos Flores Chavez,1979-09-20,2023-11-26 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,44415.09,f,Bajo,Activo
+761,Fisica,Karla Sanchez Diaz,1999-09-20,2025-06-29 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Comerciante,32979.18,f,Bajo,Activo
+762,Fisica,Alejandro Torres Gomez,2003-09-20,2025-06-02 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,24533.46,f,Bajo,Activo
+763,Fisica,Ana Ortiz Chavez,1976-09-20,2026-03-18 03:35:34.843276,Sucursal,Reynosa,Tamaulipas,1,Servidor Publico,23809.74,f,Bajo,Activo
+764,Fisica,Roberto Gonzalez Aguilar,1985-09-20,2025-02-03 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Jubilado,17395.47,f,Medio,Activo
+765,Fisica,Juan Castillo Chavez,1985-09-20,2024-06-17 03:35:34.843276,Digital,Merida,Yucatan,1,Estudiante,7705.03,f,Bajo,Activo
+766,Fisica,Raul Jimenez Ramos,2003-09-20,2025-10-15 03:35:34.843276,Digital,Toluca,Estado de Mexico,1,Estudiante,5953.47,f,Medio,Activo
+767,Fisica,Francisco Salazar Hernandez,1986-09-20,2025-10-02 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Profesionista Independiente,98863.89,f,Bajo,Activo
+768,Fisica,Daniela Lopez Flores,1965-09-20,2024-09-13 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Empleado,18954.22,f,Bajo,Activo
+769,Fisica,Arturo Castillo Chavez,1975-09-20,2024-12-18 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Servidor Publico,33329.06,f,Bajo,Activo
+770,Fisica,Paola Jimenez Chavez,1969-09-20,2024-03-11 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Servidor Publico,52834.08,f,Bajo,Activo
+771,Fisica,Sergio Ramos Vargas,1962-09-20,2024-11-16 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Servidor Publico,29121.20,f,Bajo,Activo
+772,Fisica,Karla Ruiz Hernandez,1998-09-20,2023-11-16 03:35:34.843276,Digital,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,47327.14,f,Bajo,Activo
+773,Fisica,Jose Perez Garcia,1972-09-20,2026-02-21 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empleado,16636.35,f,Bajo,Activo
+774,Fisica,Ricardo Garcia Contreras,2001-09-20,2026-01-19 03:35:34.843276,Sucursal,Queretaro,Queretaro,1,Estudiante,6657.91,f,Medio,Activo
+775,Moral,Distribuidora Restaurantero Rivera S.A. de C.V.,2020-09-20,2024-06-15 03:35:34.843276,Ejecutivo,Reynosa,Tamaulipas,1,Restaurantero,1521688.53,f,Bajo,Activo
+776,Fisica,Ricardo Chavez Gutierrez,1961-09-20,2024-05-11 03:35:34.843276,Ejecutivo,Cancun,Quintana Roo,1,Profesionista Independiente,112775.33,f,Bajo,Activo
+777,Fisica,Raul Lopez Castillo,1962-09-20,2024-09-24 03:35:34.843276,Sucursal,Cancun,Quintana Roo,1,Estudiante,6563.11,f,Medio,Activo
+778,Fisica,Jorge Vazquez Vazquez,1958-09-20,2024-07-17 03:35:34.843276,Digital,Puebla,Puebla,1,Estudiante,7286.88,f,Bajo,Activo
+779,Fisica,Jorge Gomez Vazquez,1974-09-20,2026-03-02 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Comerciante,46677.49,f,Bajo,Activo
+780,Fisica,Ricardo Ruiz Jimenez,1995-09-20,2025-09-25 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Profesionista Independiente,39024.91,f,Bajo,Activo
+781,Fisica,Eduardo Ortiz Perez,1988-09-20,2023-12-15 03:35:34.843276,Digital,Culiacan,Sinaloa,1,Comerciante,31517.18,f,Bajo,Activo
+782,Fisica,Paola Garcia Castillo,1992-09-20,2026-06-10 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Comerciante,31378.01,f,Bajo,Activo
+783,Moral,Distribuidora Construccion Chavez S.A. de C.V.,2007-09-20,2025-01-01 03:35:34.843276,Digital,Ciudad de Mexico,Ciudad de Mexico,1,Construccion,624514.95,f,Bajo,Activo
+784,Fisica,Paola Ortiz Mendoza,1981-09-20,2023-11-04 03:35:34.843276,Digital,Monterrey,Nuevo Leon,1,Jubilado,21842.83,f,Bajo,Activo
+785,Fisica,Fernanda Cruz Rivera,1966-09-20,2024-04-04 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empresario,40697.60,f,Medio,Activo
+786,Fisica,Paola Jimenez Diaz,1982-09-20,2025-05-28 03:35:34.843276,Digital,Reynosa,Tamaulipas,1,Empresario,301090.23,f,Bajo,Activo
+787,Fisica,Jorge Gomez Gutierrez,1993-09-20,2023-10-31 03:35:34.843276,Digital,Cancun,Quintana Roo,1,Empresario,146406.57,f,Bajo,Activo
+788,Fisica,Paola Martinez Salazar,1986-09-20,2025-01-16 03:35:34.843276,Digital,Queretaro,Queretaro,1,Estudiante,2907.91,f,Alto,Activo
+789,Fisica,Maria Contreras Ramos,1965-09-20,2026-04-13 03:35:34.843276,Ejecutivo,Ecatepec de Morelos,Estado de Mexico,1,Servidor Publico,18147.51,f,Bajo,Activo
+790,Moral,Logistica Construccion Sanchez S.A. de C.V.,2025-09-20,2026-08-19 03:35:34.843276,Sucursal,Merida,Yucatan,1,Construccion,805249.25,f,Bajo,Activo
+791,Fisica,Claudia Reyes Castillo,1973-09-20,2025-03-20 03:35:34.843276,Sucursal,Merida,Yucatan,1,Empresario,339410.30,f,Bajo,Activo
+792,Fisica,Eduardo Ramos Cruz,2000-09-20,2025-01-16 03:35:34.843276,Digital,Guadalajara,Jalisco,1,Comerciante,31940.73,f,Bajo,Activo
+793,Fisica,Francisco Hernandez Hernandez,1957-09-20,2026-08-17 03:35:34.843276,Sucursal,Monterrey,Nuevo Leon,1,Comerciante,43024.53,f,Bajo,Activo
+794,Fisica,Fernanda Ruiz Aguilar,1986-09-20,2026-03-29 03:35:34.843276,Digital,Merida,Yucatan,1,Profesionista Independiente,58154.58,f,Medio,Activo
+795,Fisica,Daniela Contreras Benitez,1961-09-20,2025-09-16 03:35:34.843276,Ejecutivo,Monterrey,Nuevo Leon,1,Empresario,314852.88,f,Bajo,Activo
+796,Fisica,Francisco Ramos Reyes,1983-09-20,2024-05-09 03:35:34.843276,Digital,Puebla,Puebla,1,Profesionista Independiente,20628.79,f,Medio,Activo
+797,Fisica,Paola Torres Hernandez,2001-09-20,2024-12-06 03:35:34.843276,Digital,Aguascalientes,Aguascalientes,1,Estudiante,3345.63,f,Bajo,Activo
+798,Fisica,Maria Torres Torres,2003-09-20,2024-11-28 03:35:34.843276,Sucursal,Merida,Yucatan,1,Servidor Publico,36913.36,f,Medio,Activo
+799,Fisica,Ricardo Vazquez Rivera,1969-09-20,2025-06-18 03:35:34.843276,Sucursal,Toluca,Estado de Mexico,1,Empresario,83849.72,f,Bajo,Activo
+800,Fisica,Jorge Ruiz Perez,2003-09-20,2024-11-18 03:35:34.843276,Digital,Chihuahua,Chihuahua,1,Jubilado,11157.31,f,Bajo,Activo
